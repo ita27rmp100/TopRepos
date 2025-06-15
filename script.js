@@ -40,3 +40,7 @@ $(document).ready(function(){
     // copy rights year
     $("#year").text((new Date()).getFullYear())  
 })
+// Event listener for Collaspe button
+document.getElementById("toggler").addEventListener("click",function(){
+    $("#navbarNav").slideToggle()
+})
