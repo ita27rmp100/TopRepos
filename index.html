@@ -9,6 +9,7 @@
     <link rel="icon" href="/images/IconTab.png"> 
     <!-- icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="shortcut icon" href="IconTab.png" type="image/x-icon">
     <!-- google font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,6 +18,122 @@
     <title>TopRepos | Home</title>
 </head>
 <body>
-    
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">
+            <img src="IconTab.png" width="30" height="30" class="d-inline-block align-top" alt="">
+            TopRepos
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#"><i class="fas fa-home"></i> Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fas fa-trophy"></i> Top Repos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fas fa-users"></i> Contributors</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fas fa-info-circle"></i> About</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="jumbotron jumbotron-fluid text-center bg-primary text-white mb-0" style="background: linear-gradient(135deg, #007bff 60%, #6f42c1 100%);">
+        <div class="container">
+            <h1 class="display-4 font-weight-bold" style="font-family: 'Rubik', sans-serif;">Discover Top GitHub Repositories</h1>
+            <p class="lead">Discover the best 50 open sources projects in GitHub in your region.</p>
+            <a href="#" class="btn btn-light btn-lg mt-3 shadow-sm"><i class="fas fa-search"></i> Explore Now</a>
+        </div>
+    </header>
+
+    <section class="container py-5">
+        <div class="row text-center">
+            <div class="col-md-4 mb-4">
+                <div class="card border-0 shadow h-100">
+                    <div class="card-body">
+                        <i class="fas fa-trophy fa-3x text-primary mb-3"></i>
+                        <h5 class="card-title font-weight-bold">Top Repositories</h5>
+                        <p class="card-text">Browse the most popular open-source projects and see what’s trending now.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card border-0 shadow h-100">
+                    <div class="card-body">
+                        <i class="fas fa-users fa-3x text-success mb-3"></i>
+                        <h5 class="card-title font-weight-bold">Active Contributors</h5>
+                        <p class="card-text">Meet the developers making an impact and view their top contributions.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card border-0 shadow h-100">
+                    <div class="card-body">
+                        <i class="fas fa-globe-africa fa-3x text-warning mb-3"></i>
+                        <h5 class="card-title font-weight-bold">Regional Insights</h5>
+                        <p class="card-text">See what’s hot in your country and connect with local open-source communities.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <nav class="container my-4">
+        <div class="row justify-content-center">
+            <div class="col-md-10">
+                <ul class="nav nav-pills nav-justified flex-wrap bg-light p-2 rounded shadow-sm">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Algeria</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">United States</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">India</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Germany</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Brazil</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">France</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Japan</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Canada</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Nigeria</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Australia</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <footer class="bg-dark text-white text-center py-3">
+        <div class="container">
+            <small>&copy; 2024 TopRepos. All rights reserved.</small>
+        </div>
+    </footer>
+    <script src="jquery-3.7.0.min.js"></script>
+    <script src="script.js"></script>
+    <!-- <script>
+        const url = 'https://committers.top/rank_only/algeria.json'
+        $.get(url,function(data){
+            console.log(data.user)
+        }).done(console.log('done')).fail(console.log('fail')).always("HTTP GET end")
+    </script> -->
 </body>
 </html>
