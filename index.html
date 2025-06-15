@@ -24,7 +24,7 @@
             <img src="IconTab.png" width="30" height="30" class="d-inline-block align-top" alt="">
             TopRepos
         </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" id="toggler"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -34,7 +34,7 @@
                     <a class="nav-link" href="#"><i class="fas fa-home"></i> Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="countries"><i class="fas fa-trophy"></i> Top Repos</a>
+                    <a class="nav-link" href="#countries"><i class="fas fa-trophy"></i> Top Repos</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#contributors"><i class="fas fa-users"></i> Contributors</a>
@@ -46,9 +46,9 @@
         </div>
     </nav>
     <!-- head of home page -->
-    <header class="jumbotron jumbotron-fluid text-center bg-primary text-white mb-0" style="background: linear-gradient(135deg, #007bff 60%, #6f42c1 100%);">
+    <header class="jumbotron jumbotron-fluid text-center bg-primary text-white mb-0">
         <div class="container">
-            <h1 class="display-4 font-weight-bold" style="font-family: 'Rubik', sans-serif;">Discover Top GitHub Repositories</h1>
+            <h1 class="display-4 font-weight-bold headerTitle">Discover Top GitHub Repositories</h1>
             <p class="lead">Discover the best 50 open sources projects in GitHub in your region.</p>
             <a href="#countries" class="btn btn-light btn-lg mt-3 shadow-sm"><i class="fas fa-search"></i> Explore Now</a>
         </div>
@@ -86,12 +86,13 @@
         </div>
     </section>
     <!-- list of contributors -->
-    <section class="container py-5">
-        <div class="column text-center justify-content-center">
-            <h2 class="display-5 font-weight-bold pb-3 text-secondary">Contributors</h2>
+    <section class="container py-5 pt-2 text-center" id="contributors">
+        <h2 class="display-5 font-weight-bold pb-3 text-secondary">Contributors</h2>
+        <div class="row text-center justify-content-center">
+            <div class="col-md-4 mb-4">
                 <div class="card border-0 shadow h-100 border rounded card-contr ">
                     <div class="d-flex justify-content-center mt-4 mb-2">
-                        <img class="card-img-top rounded-circle shadow img-card" src="contributors/ita.jpg" alt="Tayeb Abderahim Ismail" style="width: 120px; height: 120px; object-fit: cover; border: 4px solid #fff;">
+                        <img class="card-img-top rounded-circle shadow img-card" src="contributors/ita.jpg" alt="Tayeb Abderahim Ismail">
                     </div>
                     <div class="card-body">
                         <h5 class="card-title font-weight-bold mb-1">Tayeb Abderahim Ismail</h5>
@@ -104,12 +105,13 @@
                         </a>
                     </div>
                 </div>
+            </div>
         </div>
     </section>
     <!-- list of countries -->
-    <nav class="container my-4" id="countries">
+    <nav class="container my-4 pt-2" id="countries">
         <div class="row justify-content-center">
-            <h2 class="display-5 font-weight-bold pb-3 text-secondary">County List</h2>
+            <h2 class="display-5 font-weight-bold pb-3 text-secondary">Country List</h2>
             <div class="col-md-10">
                 <div class="list-group shadow-sm" id="countryList">
                 </div>
