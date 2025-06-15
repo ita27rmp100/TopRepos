@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- link files and documents -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="/stylesheets/style.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="icon" href="/images/IconTab.png"> 
     <!-- icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
@@ -18,6 +18,7 @@
     <title>TopRepos | Home</title>
 </head>
 <body>
+    <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="navbar-brand" href="#">
             <img src="IconTab.png" width="30" height="30" class="d-inline-block align-top" alt="">
@@ -33,26 +34,26 @@
                     <a class="nav-link" href="#"><i class="fas fa-home"></i> Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fas fa-trophy"></i> Top Repos</a>
+                    <a class="nav-link" href="countries"><i class="fas fa-trophy"></i> Top Repos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fas fa-users"></i> Contributors</a>
+                    <a class="nav-link" href="#contributors"><i class="fas fa-users"></i> Contributors</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fas fa-info-circle"></i> About</a>
+                    <a class="nav-link" href="https://github.com/ita27rmp100/TopRepos/blob/main/README.md"><i class="fas fa-info-circle"></i> About</a>
                 </li>
             </ul>
         </div>
     </nav>
-
+    <!-- head of home page -->
     <header class="jumbotron jumbotron-fluid text-center bg-primary text-white mb-0" style="background: linear-gradient(135deg, #007bff 60%, #6f42c1 100%);">
         <div class="container">
             <h1 class="display-4 font-weight-bold" style="font-family: 'Rubik', sans-serif;">Discover Top GitHub Repositories</h1>
             <p class="lead">Discover the best 50 open sources projects in GitHub in your region.</p>
-            <a href="#" class="btn btn-light btn-lg mt-3 shadow-sm"><i class="fas fa-search"></i> Explore Now</a>
+            <a href="#countries" class="btn btn-light btn-lg mt-3 shadow-sm"><i class="fas fa-search"></i> Explore Now</a>
         </div>
     </header>
-
+    <!-- Some beautiful description -->
     <section class="container py-5">
         <div class="row text-center">
             <div class="col-md-4 mb-4">
@@ -84,56 +85,48 @@
             </div>
         </div>
     </section>
-    <nav class="container my-4">
+    <!-- list of contributors -->
+    <section class="container py-5">
+        <div class="column text-center justify-content-center">
+            <h2 class="display-5 font-weight-bold pb-3 text-secondary">Contributors</h2>
+                <div class="card border-0 shadow h-100 border rounded card-contr ">
+                    <div class="d-flex justify-content-center mt-4 mb-2">
+                        <img class="card-img-top rounded-circle shadow img-card" src="contributors/ita.jpg" alt="Tayeb Abderahim Ismail" style="width: 120px; height: 120px; object-fit: cover; border: 4px solid #fff;">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title font-weight-bold mb-1">Tayeb Abderahim Ismail</h5>
+                        <small class="text-muted d-block mb-2">1st year CS student</small>
+                        <p class="card-text mb-3">
+                            Web Developer &amp; Programmer
+                        </p>
+                        <a href="https://github.com/ita27rmp100" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">
+                            <i class="fab fa-github"></i> Explore more
+                        </a>
+                    </div>
+                </div>
+        </div>
+    </section>
+    <!-- list of countries -->
+    <nav class="container my-4" id="countries">
         <div class="row justify-content-center">
+            <h2 class="display-5 font-weight-bold pb-3 text-secondary">County List</h2>
             <div class="col-md-10">
-                <ul class="nav nav-pills nav-justified flex-wrap bg-light p-2 rounded shadow-sm">
-                    <li class="nav-item">
-                        <a class="nav-link active" href="#">Algeria</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">United States</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">India</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Germany</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Brazil</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">France</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Japan</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Canada</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Nigeria</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Australia</a>
-                    </li>
-                </ul>
+                <div class="list-group shadow-sm" id="countryList">
+                </div>
             </div>
         </div>
     </nav>
+    <!-- footer -->
     <footer class="bg-dark text-white text-center py-3">
         <div class="container">
-            <small>&copy; 2024 TopRepos. All rights reserved.</small>
+            <small>
+                &copy; <b id="year"></b> <span class="font-weight-bold text-primary">TopRepos</span>. All rights reserved.
+                &mdash; Built with <i class="fas fa-heart text-danger"></i> by
+                <a href="https://github.com/ita27rmp100" class="text-info font-weight-bold" target="_blank" rel="noopener">ITA27</a>
+            </small>
         </div>
     </footer>
     <script src="jquery-3.7.0.min.js"></script>
     <script src="script.js"></script>
-    <!-- <script>
-        const url = 'https://committers.top/rank_only/algeria.json'
-        $.get(url,function(data){
-            console.log(data.user)
-        }).done(console.log('done')).fail(console.log('fail')).always("HTTP GET end")
-    </script> -->
 </body>
 </html>

@@ -10,24 +10,33 @@ const countries = ["algeria","egypt", "saudi_arabia",
 
 console.log(countries.length)
 ////////////////////////////////  FETCH JSON data from committers.top
-const url = 'https://committers.top/rank_only/algeria.json'
-$.get(url,function(data){
-    console.log(data.user)
-}).done(console.log('done')).fail(console.log('fail')).always("HTTP GET end")
+// const url = 'https://committers.top/rank_only/algeria.json'
+// $.get(url,function(data){
+//     console.log(data.user)
+// }).done(console.log('done')).fail(console.log('fail')).always("HTTP GET end")
 
-for (let i = 0; i < countries.length; i++) {
-    const url = `https://committers.top/rank_only/${countries[i]}.json`
-    $.get(url, function(data) {
-        console.log("No error");
-    }).done(function() {
-        console.log('done');
-    }).fail(function() {
-        countries.splice(i, 1);
-        console.log(`Removed ${countries[i]} due to error`);
-    }).always(function() {
-        console.log("HTTP GET end");
-    });
-}
+// for (let i = 0; i < countries.length; i++) {
+//     const url = `https://committers.top/rank_only/${countries[i]}.json`
+//     $.get(url, function(data) {
+//         console.log("No error");
+//     }).done(function() {
+//         console.log('done');
+//     }).fail(function() {
+//         countries.splice(i, 1);
+//         console.log(`Removed ${countries[i]} due to error`);
+//     }).always(function() {
+//         console.log("HTTP GET end");
+//     });
+// }
 console.log(countries)
 
 // When document is ready
+$(document).ready(function(){
+    // coutries list
+    for (let i = 0 ; i<countries.length;i++) {
+        const countryName = countries[i].replaceAll("_", " ").replace(/\b\w/g, c => c.toUpperCase());
+        $("#countryList").append(`<a class="list-group-item list-group-item-action ${i==0 ? "active" : ""}" href="#${countries[i]}">${countryName}</a>`)
+    }
+    // copy rights year
+    $("#year").text((new Date()).getFullYear())  
+})
