@@ -7,28 +7,6 @@ const countries = ["algeria","egypt", "saudi_arabia",
     "uae", "iran","iraq","syria","yemen","qatar",
     "poland", "netherlands", "sweden"
 ];
-
-////////////////////////////////  FETCH JSON data from committers.top
-// const url = 'https://committers.top/rank_only/algeria.json'
-// $.get(url,function(data){
-//     console.log(data.user)
-// }).done(console.log('done')).fail(console.log('fail')).always("HTTP GET end")
-
-// for (let i = 0; i < countries.length; i++) {
-//     const url = `https://committers.top/rank_only/${countries[i]}.json`
-//     $.get(url, function(data) {
-//         console.log("No error");
-//     }).done(function() {
-//         console.log('done');
-//     }).fail(function() {
-//         countries.splice(i, 1);
-//         console.log(`Removed ${countries[i]} due to error`);
-//     }).always(function() {
-//         console.log("HTTP GET end");
-//     });
-// }
-console.log(countries)
-
 // When document is ready
 $(document).ready(function(){
     // coutries list

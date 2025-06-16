@@ -3,7 +3,7 @@ A web project that showcases the top 50 open source repositories on GitHub for e
 
 ## Conditions
 1. Your account must have at least 10 followers.
-2. You must be among the top 50 most active GitHub users, according to the [committers.top](https://committers.top/) ranking.
+2. You must be among the top 10 most active GitHub users, according to the [committers.top](https://committers.top/) ranking.
 3. Your GitHub account must be older than one year.
 
 ## How each project is graded :
