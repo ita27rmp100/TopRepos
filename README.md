@@ -8,7 +8,7 @@ A web project that showcases the top 50 open source repositories on GitHub for e
 
 ## How each project is graded :
 
-**Total points =** (stars * 2) + (forks/2) + pull requests + (watchers/2) - issues 
+**Total points =** (stars * 2) + (forks/2) + (watchers/2) - issues 
 > Then GitHub Repositories are ranked highest to lowest total points
 
 ## Installing :
