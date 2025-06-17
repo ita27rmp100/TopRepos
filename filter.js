@@ -49,7 +49,12 @@ async function getTopRepos(users){
 }
 getTopUsers().then(filteredUsers => {
     console.log(filteredUsers)
+    let TopList = ''
     getTopRepos(filteredUsers).then(bestProjects=>{
-        console.log(bestProjects)
+        let rank = 1
+        bestProjects.forEach((p)=>{
+            TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank}" points="${p.totalPoints}"></new-repo>`
+            rank++
+        })
     })
 });
