@@ -22,6 +22,7 @@ async function getTopUsers() {
     tops = filteredUsers
     return filteredUsers;
 }
+
 async function getTopRepos(users){
     let BestProjects = []
     for (let i = 0; i < users.length; i++) {
