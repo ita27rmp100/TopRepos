@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<body class="bg-danger">
+    <div class="container" style="max-width:600px;">
+        <div class="card mt-5 shadow">
+            <div class="card-body text-center">
+                <h1 class="display-4 text-danger alert alert-danger"><%= message %></h1>
+                <h4 class="text-secondary mb-4 bg-light p-2 pl-3 text-left">Status: <%= error.status %></h4>
+                <pre class="bg-light text-danger p-3 rounded text-left" style="overflow-x:auto;"><%= error.stack %></pre>
+                <a class="btn btn-link mt-4" href="/">&#8592; Back to Home</a>
+            </div>
+        </div>
+    </div>
+</body>
+
