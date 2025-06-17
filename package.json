@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ita27rmp100/TopRepos/issues"
   },
-  "homepage": "https://github.com/ita27rmp100/TopRepos#readme"
+  "homepage": "https://github.com/ita27rmp100/TopRepos#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
