@@ -4,8 +4,8 @@ var router = express.Router();
 /* GET home page. */
 router.get('/:country?', function(req, res, next) {
     let country = req.params.country
-    async function getTopUsers() {
-        const url = 'https://committers.top/rank_only/algeria.json';
+    async function getTopUsers(country) {
+        const url = `https://committers.top/rank_only/${country}.json`;
         let response = await fetch(url);
         let data = await response.json();
         let topUsers = data.user.slice(0, 10);
@@ -50,21 +50,25 @@ router.get('/:country?', function(req, res, next) {
                 console.log(`ERROR fetching repos for user ${filteredUsers[i]}`);
             }
         }
-        BestProjects.sort((a,b)=> b.totalPoints - a.totalPoints)
+        BestProjects.sort((a,b)=> b.totalPoints - a.totalPoints).slice(0,10)
         return BestProjects
     }
-getTopUsers().then(filteredUsers => {
-    console.log(filteredUsers)
-    let TopList = ''
-    getTopRepos(filteredUsers).then(bestProjects=>{
-        let rank = 1
-        bestProjects.forEach((p)=>{
-            TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank}" points="${p.totalPoints}"></new-repo>`
-            rank++
+    getTopUsers().then(filteredUsers => {
+        console.log(filteredUsers)
+        let TopList = ''
+        getTopRepos(filteredUsers).then(bestProjects=>{
+            let rank = 1
+            bestProjects.forEach((p)=>{
+                TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank}" points="${p.totalPoints}"></new-repo>`
+                rank++
+            })
         })
-    })
-});
-    res.render('country_top_repos', { country: country.replace(country[0],country[0].toUpperCase()) });
+        res.render('country_top_repos',
+            {
+             country: country.replace(country[0],country[0].toUpperCase()) ,
+             top:TopList
+            });
+    });
 });
 
 module.exports = router;
