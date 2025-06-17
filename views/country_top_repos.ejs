@@ -18,26 +18,7 @@
     <!-- list of top projects -->
     <nav class="container-fluid d-flex flex-column justify-content-center align-items-center mb-5">
         <!-- project sample -->
-        <div class="card card-profile shadow-sm mt-3" id="preview">
-            <div class="card-body">
-                <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="25px" height="25px" alt="githubIcon" class="right float-right">
-                <div class="d-flex align-items-center mb-3 right">
-                    <img src="https://avatars.githubusercontent.com/u/68165849?v=4" width="60px" height="60px" alt="Profile Image" class="profile-image rounded right" id="avatar" crossorigin="anonymous">
-                    <div class="ml-3" id="userrepo">
-                        <h4 class="font-weight-bold mb-0 text-muted">
-                            ita27rmp100/
-                                <br> 
-                            <span class="text-dark">tools</span>
-                        </h4>
-                    </div>
-                </div>
-                <div class="d-flex justify-content-between text-muted">
-                    <small class="font-weight-bold"><i class="fas fa-trophy text-warning">&nbsp;&nbsp;<b id="cntrb"> Rank :</b></i> 5</small>
-                    <small class="font-weight-bold"><i class="fas fa-star text-info">&nbsp;&nbsp; <b id="total">total points :</b></i>  145 </small>
-                </div>
-            </div>
-        </div>
-        <new-repo username="ita27rmp100" reponame="tools" avatar="https://avatars.githubusercontent.com/u/68165849?v=4" rank="2" points="42"></new-repo>
+        <%-top %>        
     </nav>
     <!-- footer -->
     <%- include('./main/footer.ejs') %>

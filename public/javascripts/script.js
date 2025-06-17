@@ -12,7 +12,7 @@ $(document).ready(function(){
     // coutries list
     for (let i = 0 ; i<countries.length;i++) {
         const countryName = countries[i].replaceAll("_", " ").replace(/\b\w/g, c => c.toUpperCase());
-        $("#countryList").append(`<a class="list-group-item list-group-item-action ${i==0 ? "active" : ""}" href="#${countries[i]}">${countryName}</a>`)
+        $("#countryList").append(`<a class="list-group-item list-group-item-action ${i==0 ? "active" : ""}" href="/country/${countries[i]}">${countryName}</a>`)
     }
     // copy rights year
     $("#year").text((new Date()).getFullYear())  
