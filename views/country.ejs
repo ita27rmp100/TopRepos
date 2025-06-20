@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('./main/head.ejs') %>
+    <title>TopRepos | <%=country%> </title>
+</head>
+<body>
+    <!-- navbar -->
+    <%- include('./main/navbar.ejs') %>
+    <!-- Header -->
+    <header class="jumbotron jumbotron-fluid text-center bg-primary text-white mb-0">
+        <div class="container">
+            <h1 class="display-4 font-weight-bold headerTitle">Discover Top GitHub Repositories</h1>
+            <p class="lead mt-1 mb-3">Explore the most popular open-source projects by country. Stay inspired and contribute!</p>
+            <h3 class="display-5 alert alert-primary" id="country-name">Algeria</span></h3>
+        </div>
+    </header>
+    <!-- list of top projects -->
+    <nav class="container-fluid d-flex flex-column justify-content-center align-items-center mb-5">
+        <!-- project sample -->
+        <%-top %>        
+    </nav>
+    <!-- footer -->
+    <%- include('./main/footer.ejs') %>
+    <!-- sripts -->
+    <%- include('./main/scripts.ejs') %>
+</body>
+</html>
