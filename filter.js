@@ -53,7 +53,7 @@ getTopUsers().then(filteredUsers => {
     getTopRepos(filteredUsers).then(bestProjects=>{
         for (let rank = 0; rank < bestProjects.length && rank < 10; rank++) {
             const p = bestProjects[rank];
-            TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank+1}" points="${p.totalPoints}"></new-repo>`;
+            TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank+1}" points="${p.totalPoints}"></new-repo> \n`;
         }
         console.log(bestProjects)
         console.log(TopList)
