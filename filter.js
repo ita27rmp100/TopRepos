@@ -1,3 +1,4 @@
+const { count } = require("console");
 const fs = require("fs")
 
 async function getTopUsers(country) {
@@ -47,26 +48,31 @@ async function getTopRepos(users){
     BestProjects.sort((a,b)=> b.totalPoints - a.totalPoints).slice(0,10)
     return BestProjects
 }
-let country = 'algeria'
-getTopUsers(country).then(filteredUsers => {
-    console.log(filteredUsers)
-    let TopList = ''
-    getTopRepos(filteredUsers).then(bestProjects=>{
-        for (let rank = 0; rank < bestProjects.length && rank < 10; rank++) {
-            const p = bestProjects[rank];
-            TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank+1}" points="${p.totalPoints}"></new-repo> \n`;
-        }
-        // Ensure the directory exists before writing
-        const path = `./routes/CountryHTML/${country}.html`;
-        fs.mkdirSync('./routes/CountryHTML', { recursive: true });
-        fs.writeFile(path, TopList, (err) => {
-            if (err) {
-                console.error('Error writing file:', err);
-                return;
-            }
+// filter and post data to CountryHTMML folder
+const delayTime = 45*3600*1000 ;
+let countries = require("./countryList.json").countries
+for (let i = 0; i < countries.length; i++) {
+    const country = countries[i];
+    setInterval(() => {
+        getTopUsers(country).then(filteredUsers => {
+            console.log(filteredUsers)
+            let TopList = ''
+            getTopRepos(filteredUsers).then(bestProjects=>{
+                for (let rank = 0; rank < bestProjects.length && rank < 10; rank++) {
+                    const p = bestProjects[rank];
+                    TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank+1}" points="${p.totalPoints}"></new-repo> \n`;
+                }
+                // Ensure the directory exists before writing
+                const path = `./routes/CountryHTML/${country}.html`;
+                fs.mkdirSync('./routes/CountryHTML', { recursive: true });
+                fs.writeFile(path, TopList, (err) => {
+                    if (err) {
+                        console.error('Error writing file:', err);
+                        return;
+                    }
+                });
+                console.log(`${country} : done`)
+            })
         });
-        console.log(bestProjects)
-        console.log(TopList)
-        console.log("/n /n /nDone...")
-    })
-});
+    },delayTime);
+}
