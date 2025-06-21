@@ -44,17 +44,18 @@ async function getTopRepos(users){
             console.log(`ERROR fetching repos for user ${filteredUsers[i]}`);
         }
     }
-    BestProjects.sort((a,b)=> b.totalPoints - a.totalPoints)
+    BestProjects.sort((a,b)=> b.totalPoints - a.totalPoints).slice(0,10)
     return BestProjects
 }
 getTopUsers().then(filteredUsers => {
     console.log(filteredUsers)
     let TopList = ''
     getTopRepos(filteredUsers).then(bestProjects=>{
-        let rank = 1
-        bestProjects.forEach((p)=>{
-            TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank}" points="${p.totalPoints}"></new-repo>`
-            rank++
-        })
+        for (let rank = 0; rank < bestProjects.length && rank < 10; rank++) {
+            const p = bestProjects[rank];
+            TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank+1}" points="${p.totalPoints}"></new-repo>`;
+        }
+        console.log(bestProjects)
+        console.log(TopList)
     })
 });
