@@ -1,5 +1,7 @@
-async function getTopUsers() {
-    const url = 'https://committers.top/rank_only/algeria.json';
+const fs = require("fs")
+
+async function getTopUsers(country) {
+    const url = `https://committers.top/rank_only/${country}.json`;
     let response = await fetch(url);
     let data = await response.json();
     let topUsers = data.user.slice(0, 10);
@@ -12,17 +14,15 @@ async function getTopUsers() {
             let userResponse = await fetch(userUrl);
             let userData = await userResponse.json();
             let accountAgeYears = (new Date() - new Date(userData.created_at)) / (1000 * 3600 * 24 * 365);
-            if (accountAgeYears >= 3) {
+            if (accountAgeYears >= 1) {
                 filteredUsers.push(topUsers[i]);
             }
         } catch (err) {
             console.log(`ERROR fetching user ${topUsers[i]}`);
         }
     }
-    tops = filteredUsers
     return filteredUsers;
 }
-
 async function getTopRepos(users){
     let BestProjects = []
     for (let i = 0; i < users.length; i++) {
@@ -47,7 +47,8 @@ async function getTopRepos(users){
     BestProjects.sort((a,b)=> b.totalPoints - a.totalPoints).slice(0,10)
     return BestProjects
 }
-getTopUsers().then(filteredUsers => {
+let country = 'algeria'
+getTopUsers(country).then(filteredUsers => {
     console.log(filteredUsers)
     let TopList = ''
     getTopRepos(filteredUsers).then(bestProjects=>{
@@ -55,7 +56,17 @@ getTopUsers().then(filteredUsers => {
             const p = bestProjects[rank];
             TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank+1}" points="${p.totalPoints}"></new-repo> \n`;
         }
+        // Ensure the directory exists before writing
+        const path = `./routes/CountryHTML/${country}.html`;
+        fs.mkdirSync('./routes/CountryHTML', { recursive: true });
+        fs.writeFile(path, TopList, (err) => {
+            if (err) {
+                console.error('Error writing file:', err);
+                return;
+            }
+        });
         console.log(bestProjects)
         console.log(TopList)
+        console.log("/n /n /nDone...")
     })
 });
