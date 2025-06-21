@@ -15,7 +15,7 @@ async function getTopUsers(country) {
             let userResponse = await fetch(userUrl);
             let userData = await userResponse.json();
             let accountAgeYears = (new Date() - new Date(userData.created_at)) / (1000 * 3600 * 24 * 365);
-            if (accountAgeYears >= 1) {
+            if (accountAgeYears >= 1 && userData.followers >= 10) {
                 filteredUsers.push(topUsers[i]);
             }
         } catch (err) {
