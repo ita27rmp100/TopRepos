@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ita27rmp100/TopRepos#readme",
   "dependencies": {
     "cookie-parser": "^1.4.7",
+    "fs": "^0.0.1-security",
     "morgan": "^1.10.0",
     "node-fetch": "^3.3.2",
     "path": "^0.12.7"
