@@ -1,4 +1,3 @@
-const { count } = require("console");
 const fs = require("fs")
 
 async function getTopUsers(country) {
@@ -51,9 +50,11 @@ async function getTopRepos(users){
 // filter and post data to CountryHTMML folder
 const delayTime = 45*3600*1000 ;
 let countries = require("./countryList.json").countries
-for (let i = 0; i < countries.length; i++) {
-    const country = countries[i];
-    setInterval(() => {
+console.log(countries)
+// for (let i = 0; i < countries.length; i++) {
+    const country = countries[1];
+    console.log(country+"\n")
+    // setInterval(() => {
         getTopUsers(country).then(filteredUsers => {
             console.log(filteredUsers)
             let TopList = ''
@@ -74,5 +75,5 @@ for (let i = 0; i < countries.length; i++) {
                 console.log(`${country} : done`)
             })
         });
-    },delayTime);
-}
+    // },10000);
+// }
