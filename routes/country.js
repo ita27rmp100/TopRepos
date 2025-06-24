@@ -15,7 +15,7 @@ router.get('/:country?', function(req, res) {
             TopList = data
             res.render('country',
                 {
-                    country: req_country.replace(req_country[0],req_country[0].toUpperCase()) ,
+                    country: req_country.replaceAll("_", " ").replace(/\b\w/g, c => c.toUpperCase()) ,
                     top:TopList
                 });
         }
