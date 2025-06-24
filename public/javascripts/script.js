@@ -10,6 +10,7 @@ const countries = ["algeria","egypt", "saudi_arabia",
 // When document is ready
 $(document).ready(function(){
     // coutries list
+    countries.sort()
     for (let i = 0 ; i<countries.length;i++) {
         const countryName = countries[i].replaceAll("_", " ").replace(/\b\w/g, c => c.toUpperCase());
         $("#countryList").append(`<a class="list-group-item list-group-item-action ${i==0 ? "active" : ""}" href="/country/${countries[i]}">${countryName}</a>`)

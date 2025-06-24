@@ -50,9 +50,8 @@ async function getTopRepos(users){
 // filter and post data to CountryHTMML folder
 const delayTime = 45*3600*1000 ;
 let countries = require("./countryList.json").countries
-console.log(countries)
 // for (let i = 0; i < countries.length; i++) {
-    const country = countries[19];
+    const country = countries[29];
     // setInterval(() => {
         getTopUsers(country).then(filteredUsers => {
             console.log(filteredUsers)
