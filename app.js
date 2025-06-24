@@ -1,13 +1,43 @@
-var createError = require('http-errors');
-var express = require('express');
-var path = require('path');
-var cookieParser = require('cookie-parser');
-var logger = require('morgan');
+// needed packages
+const createError = require('http-errors');
+const express = require('express');
+const path = require('path');
+const cookieParser = require('cookie-parser');
+const logger = require('morgan');
+const {exec} = require("child_process")
 
-var indexRouter = require('./routes/index');
-var topReposRouter = require('./routes/country');
+// page routes
+const indexRouter = require('./routes/index');
+const topReposRouter = require('./routes/country');
+const { stdout, stderr } = require('process');
 
-var app = express();
+const app = express();
+// working on data 
+const countries = ["algeria","egypt", "saudi_arabia",
+                    "united_states", "canada", "brazil", "mexico", "argentina",
+                    "uk", "germany", "france", "italy", "spain", "russia",
+                    "china", "india", "japan", "south_korea", "indonesia", "turkey",
+                    "australia", "new_zealand","belgium","switzerland",
+                    "south_africa", "nigeria", "kenya", "ethiopia",
+                    "uae", "iran","iraq","syria","yemen","qatar",
+                    "poland", "netherlands", "sweden"
+                  ]
+function RecursivePushCountryData(index){
+  if(index<countries.length){
+    const country = countries[index]
+    exec(`node filter.js ${country}`,(error,stdout,stderr)=>{
+      if(stdout){
+        console.log(country+" : done")
+        RecursivePushCountryData(index+1)
+      }
+      else 
+        if(stderr) console.log("Stderr",stderr)
+        else if(error) console.log("Error :",error)
+        setTimeout(()=>RecursivePushCountryData(index+1),5000)
+    })
+  }
+}
+RecursivePushCountryData(0)
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
