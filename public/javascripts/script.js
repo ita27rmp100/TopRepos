@@ -23,7 +23,7 @@ document.getElementById("toggler").addEventListener("click",function(){
 })
 // functions needed
 function visit(user_repo){
-    window.location = `https://github.com/${user_repo}`
+    window.open(`https://github.com/${user_repo}`,"_blank")
 }
 // needed tags
 customElements.define(

@@ -52,8 +52,7 @@ const delayTime = 45*3600*1000 ;
 let countries = require("./countryList.json").countries
 console.log(countries)
 // for (let i = 0; i < countries.length; i++) {
-    const country = countries[1];
-    console.log(country+"\n")
+    const country = countries[5];
     // setInterval(() => {
         getTopUsers(country).then(filteredUsers => {
             console.log(filteredUsers)
