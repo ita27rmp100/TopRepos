@@ -51,7 +51,8 @@ async function getTopRepos(users){
 const delayTime = 45*3600*1000 ;
 let countries = require("./countryList.json").countries
 // for (let i = 0; i < countries.length; i++) {
-    const country = countries[29];
+    const country = countries[0];
+    console.log(process.argv,process.argv[2])
     // setInterval(() => {
         getTopUsers(country).then(filteredUsers => {
             console.log(filteredUsers)
