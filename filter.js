@@ -1,5 +1,6 @@
 const fs = require("fs")
-const api = "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"
+require("dotenv").config()
+const api = process.env.GITHUB_TOKEN
 
 async function getTopUsers(country) {
     const url = `https://committers.top/rank_only/${country}.json`;
