@@ -1,1 +1,52 @@
-{}
+{
+  "1": {
+    "repoFullName": "hannobraun/fornjot",
+    "totalPoints": 5604,
+    "avatar": "https://avatars.githubusercontent.com/u/85732?v=4"
+  },
+  "2": {
+    "repoFullName": "propensive/contextual",
+    "totalPoints": 634,
+    "avatar": "https://avatars.githubusercontent.com/u/1024588?v=4"
+  },
+  "3": {
+    "repoFullName": "marcobiedermann/awesome-bookmarklets",
+    "totalPoints": 580,
+    "avatar": "https://avatars.githubusercontent.com/u/5244986?v=4"
+  },
+  "4": {
+    "repoFullName": "chrisgrieser/alfred-bibtex-citation-picker",
+    "totalPoints": 379,
+    "avatar": "https://avatars.githubusercontent.com/u/73286100?v=4"
+  },
+  "5": {
+    "repoFullName": "chrisguttandin/angular-prerender",
+    "totalPoints": 316,
+    "avatar": "https://avatars.githubusercontent.com/u/158417?v=4"
+  },
+  "6": {
+    "repoFullName": "chrisgrieser/.config",
+    "totalPoints": 306,
+    "avatar": "https://avatars.githubusercontent.com/u/73286100?v=4"
+  },
+  "7": {
+    "repoFullName": "chrisgrieser/finder-vim-mode",
+    "totalPoints": 260.5,
+    "avatar": "https://avatars.githubusercontent.com/u/73286100?v=4"
+  },
+  "8": {
+    "repoFullName": "joschi/blueskyfeedbot",
+    "totalPoints": 229.5,
+    "avatar": "https://avatars.githubusercontent.com/u/43951?v=4"
+  },
+  "9": {
+    "repoFullName": "Jason2866/CCLoader",
+    "totalPoints": 115,
+    "avatar": "https://avatars.githubusercontent.com/u/24528715?v=4"
+  },
+  "10": {
+    "repoFullName": "hannobraun/3mf-rs",
+    "totalPoints": 106,
+    "avatar": "https://avatars.githubusercontent.com/u/85732?v=4"
+  }
+}

@@ -1,1 +1,52 @@
-{}
+{
+  "1": {
+    "repoFullName": "orangci/walls-catppuccin-mocha",
+    "totalPoints": 2141.5,
+    "avatar": "https://avatars.githubusercontent.com/u/90866414?v=4"
+  },
+  "2": {
+    "repoFullName": "orangci/walls",
+    "totalPoints": 391,
+    "avatar": "https://avatars.githubusercontent.com/u/90866414?v=4"
+  },
+  "3": {
+    "repoFullName": "orangci/dots",
+    "totalPoints": 121.5,
+    "avatar": "https://avatars.githubusercontent.com/u/90866414?v=4"
+  },
+  "4": {
+    "repoFullName": "Saleh7/igeek-zsh-theme",
+    "totalPoints": 103.5,
+    "avatar": "https://avatars.githubusercontent.com/u/5176469?v=4"
+  },
+  "5": {
+    "repoFullName": "Saleh7/ipa-install",
+    "totalPoints": 55,
+    "avatar": "https://avatars.githubusercontent.com/u/5176469?v=4"
+  },
+  "6": {
+    "repoFullName": "TheVeryStarlk/Athan",
+    "totalPoints": 21.5,
+    "avatar": "https://avatars.githubusercontent.com/u/45287860?v=4"
+  },
+  "7": {
+    "repoFullName": "Saleh7/laravel-au-zsh-plugin",
+    "totalPoints": 20,
+    "avatar": "https://avatars.githubusercontent.com/u/5176469?v=4"
+  },
+  "8": {
+    "repoFullName": "mashaan14/GA-WSN-SmartGrid",
+    "totalPoints": 18.5,
+    "avatar": "https://avatars.githubusercontent.com/u/61033787?v=4"
+  },
+  "9": {
+    "repoFullName": "mo9a7i/php_whmcs_clients_review",
+    "totalPoints": 16.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1753262?v=4"
+  },
+  "10": {
+    "repoFullName": "mashaan14/MNIST-M",
+    "totalPoints": 13.5,
+    "avatar": "https://avatars.githubusercontent.com/u/61033787?v=4"
+  }
+}

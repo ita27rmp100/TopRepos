@@ -1,1 +1,52 @@
-{}
+{
+  "1": {
+    "repoFullName": "kovidgoyal/kitty",
+    "totalPoints": 70185,
+    "avatar": "https://avatars.githubusercontent.com/u/1308621?v=4"
+  },
+  "2": {
+    "repoFullName": "kovidgoyal/calibre",
+    "totalPoints": 55462.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1308621?v=4"
+  },
+  "3": {
+    "repoFullName": "Bharat2044/100xDevs-Cohort3-WebDev-and-Devops",
+    "totalPoints": 2612.5,
+    "avatar": "https://avatars.githubusercontent.com/u/104676718?v=4"
+  },
+  "4": {
+    "repoFullName": "kovidgoyal/html5-parser",
+    "totalPoints": 1742.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1308621?v=4"
+  },
+  "5": {
+    "repoFullName": "Sabyasachi-Seal/Certificate-Generator-MLSA",
+    "totalPoints": 206,
+    "avatar": "https://avatars.githubusercontent.com/u/36451386?v=4"
+  },
+  "6": {
+    "repoFullName": "Bharat2044/100xDevs-Cohort3-Web3",
+    "totalPoints": 193,
+    "avatar": "https://avatars.githubusercontent.com/u/104676718?v=4"
+  },
+  "7": {
+    "repoFullName": "amhsirak/chic-ui",
+    "totalPoints": 145,
+    "avatar": "https://avatars.githubusercontent.com/u/76456498?v=4"
+  },
+  "8": {
+    "repoFullName": "farhan7reza7/diff-ymd-package",
+    "totalPoints": 118,
+    "avatar": "https://avatars.githubusercontent.com/u/108195448?v=4"
+  },
+  "9": {
+    "repoFullName": "Sabyasachi-Seal/GitCode",
+    "totalPoints": 96.5,
+    "avatar": "https://avatars.githubusercontent.com/u/36451386?v=4"
+  },
+  "10": {
+    "repoFullName": "amhsirak/job-portal",
+    "totalPoints": 87.5,
+    "avatar": "https://avatars.githubusercontent.com/u/76456498?v=4"
+  }
+}

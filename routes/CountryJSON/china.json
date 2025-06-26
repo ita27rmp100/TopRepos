@@ -1,1 +1,52 @@
-{}
+{
+  "1": {
+    "repoFullName": "v5tech/awesome-ios-animation",
+    "totalPoints": 13822,
+    "avatar": "https://avatars.githubusercontent.com/u/887836?v=4"
+  },
+  "2": {
+    "repoFullName": "ProbiusOfficial/Hello-CTF",
+    "totalPoints": 7914.5,
+    "avatar": "https://avatars.githubusercontent.com/u/41804496?v=4"
+  },
+  "3": {
+    "repoFullName": "rootsongjc/awesome-cloud-native",
+    "totalPoints": 5808,
+    "avatar": "https://avatars.githubusercontent.com/u/3328185?v=4"
+  },
+  "4": {
+    "repoFullName": "phodal/aigc",
+    "totalPoints": 3978,
+    "avatar": "https://avatars.githubusercontent.com/u/472311?v=4"
+  },
+  "5": {
+    "repoFullName": "v5tech/awesome-ios-chart",
+    "totalPoints": 3914,
+    "avatar": "https://avatars.githubusercontent.com/u/887836?v=4"
+  },
+  "6": {
+    "repoFullName": "ProbiusOfficial/CTF-OS",
+    "totalPoints": 2593.5,
+    "avatar": "https://avatars.githubusercontent.com/u/41804496?v=4"
+  },
+  "7": {
+    "repoFullName": "phodal/articles",
+    "totalPoints": 2281.5,
+    "avatar": "https://avatars.githubusercontent.com/u/472311?v=4"
+  },
+  "8": {
+    "repoFullName": "v5tech/ELK",
+    "totalPoints": 2146,
+    "avatar": "https://avatars.githubusercontent.com/u/887836?v=4"
+  },
+  "9": {
+    "repoFullName": "yegor256/cactoos",
+    "totalPoints": 1890,
+    "avatar": "https://avatars.githubusercontent.com/u/526301?v=4"
+  },
+  "10": {
+    "repoFullName": "Anduin2017/AnduinOS",
+    "totalPoints": 1675,
+    "avatar": "https://avatars.githubusercontent.com/u/19531547?v=4"
+  }
+}

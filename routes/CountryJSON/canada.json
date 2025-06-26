@@ -1,1 +1,52 @@
-{}
+{
+  "1": {
+    "repoFullName": "rich-iannone/DiagrammeR",
+    "totalPoints": 4246,
+    "avatar": "https://avatars.githubusercontent.com/u/5612024?v=4"
+  },
+  "2": {
+    "repoFullName": "michaelklishin/cassandra-chef-cookbook",
+    "totalPoints": 507,
+    "avatar": "https://avatars.githubusercontent.com/u/1090?v=4"
+  },
+  "3": {
+    "repoFullName": "steveseguin/captionninja",
+    "totalPoints": 317.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2575698?v=4"
+  },
+  "4": {
+    "repoFullName": "jpmckinney/color-generator",
+    "totalPoints": 213,
+    "avatar": "https://avatars.githubusercontent.com/u/26463?v=4"
+  },
+  "5": {
+    "repoFullName": "rich-iannone/gt-workshop",
+    "totalPoints": 201.5,
+    "avatar": "https://avatars.githubusercontent.com/u/5612024?v=4"
+  },
+  "6": {
+    "repoFullName": "michaelklishin/crawlista",
+    "totalPoints": 172,
+    "avatar": "https://avatars.githubusercontent.com/u/1090?v=4"
+  },
+  "7": {
+    "repoFullName": "jpmckinney/image-proxy",
+    "totalPoints": 162,
+    "avatar": "https://avatars.githubusercontent.com/u/26463?v=4"
+  },
+  "8": {
+    "repoFullName": "jpmckinney/multi_mail",
+    "totalPoints": 90,
+    "avatar": "https://avatars.githubusercontent.com/u/26463?v=4"
+  },
+  "9": {
+    "repoFullName": "rich-iannone/chemdata",
+    "totalPoints": 75.5,
+    "avatar": "https://avatars.githubusercontent.com/u/5612024?v=4"
+  },
+  "10": {
+    "repoFullName": "delano/drydock",
+    "totalPoints": 68,
+    "avatar": "https://avatars.githubusercontent.com/u/1206?v=4"
+  }
+}
