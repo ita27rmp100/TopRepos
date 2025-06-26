@@ -5,7 +5,11 @@ const {exec} = require("child_process")
 /* GET home page. */
 router.get('/:country?', function(req, res) {
     let req_country = req.params.country.toLowerCase()
-    let CountryData = require(`./CountryJSON/${req_country}`)
+    // fetch json data of best projects in that country
+    const countryPath = require.resolve(`./CountryJSON/${req_country}`)
+    delete require.cache[countryPath]
+    let CountryData = require(countryPath)
+    console.log(CountryData)
     let TopList =``
     for (let i = 0; i < Object.keys(CountryData).length; i++) {
         const p = CountryData[Object.keys(CountryData)[i]];
@@ -17,7 +21,7 @@ router.get('/:country?', function(req, res) {
                 console.error("Error:", error);
                 return res.status(500).send("Internal Server Error");
             }
-            return res.redirect(`/country/${req_country}`);
+            return res.redirect(`/country/${req_country} <a href="/">go back to home page</a>`);
         });
     } else {
         res.render('country', {

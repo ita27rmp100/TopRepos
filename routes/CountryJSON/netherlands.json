@@ -1,1 +1,52 @@
-{}
+{
+  "1": {
+    "repoFullName": "Niek/chatgpt-web",
+    "totalPoints": 5117.5,
+    "avatar": "https://avatars.githubusercontent.com/u/213140?v=4"
+  },
+  "2": {
+    "repoFullName": "ThaTiemsz/Discord-Emoji-Downloader",
+    "totalPoints": 1170.5,
+    "avatar": "https://avatars.githubusercontent.com/u/18150845?v=4"
+  },
+  "3": {
+    "repoFullName": "jeroen/curl",
+    "totalPoints": 586.5,
+    "avatar": "https://avatars.githubusercontent.com/u/216319?v=4"
+  },
+  "4": {
+    "repoFullName": "szarnyasg/awesome-cypher",
+    "totalPoints": 206,
+    "avatar": "https://avatars.githubusercontent.com/u/1402801?v=4"
+  },
+  "5": {
+    "repoFullName": "Niek/chrome-features",
+    "totalPoints": 75,
+    "avatar": "https://avatars.githubusercontent.com/u/213140?v=4"
+  },
+  "6": {
+    "repoFullName": "favstats/AllSideR",
+    "totalPoints": 62,
+    "avatar": "https://avatars.githubusercontent.com/u/12173862?v=4"
+  },
+  "7": {
+    "repoFullName": "jeroen/agent",
+    "totalPoints": 50,
+    "avatar": "https://avatars.githubusercontent.com/u/216319?v=4"
+  },
+  "8": {
+    "repoFullName": "jeroen/gpg",
+    "totalPoints": 48,
+    "avatar": "https://avatars.githubusercontent.com/u/216319?v=4"
+  },
+  "9": {
+    "repoFullName": "Niek/free-proxy-list",
+    "totalPoints": 35.5,
+    "avatar": "https://avatars.githubusercontent.com/u/213140?v=4"
+  },
+  "10": {
+    "repoFullName": "ndelangen/corejs-upgrade-webpack-plugin",
+    "totalPoints": 30,
+    "avatar": "https://avatars.githubusercontent.com/u/3070389?v=4"
+  }
+}
