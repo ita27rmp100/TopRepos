@@ -1,1 +1,52 @@
-{}
+{
+  "1": {
+    "repoFullName": "merill/awesome-entra",
+    "totalPoints": 1539,
+    "avatar": "https://avatars.githubusercontent.com/u/1288081?v=4"
+  },
+  "2": {
+    "repoFullName": "aaronparker/evergreen",
+    "totalPoints": 1023,
+    "avatar": "https://avatars.githubusercontent.com/u/8227455?v=4"
+  },
+  "3": {
+    "repoFullName": "aaronparker/intune",
+    "totalPoints": 713.5,
+    "avatar": "https://avatars.githubusercontent.com/u/8227455?v=4"
+  },
+  "4": {
+    "repoFullName": "aaronparker/icons",
+    "totalPoints": 489.5,
+    "avatar": "https://avatars.githubusercontent.com/u/8227455?v=4"
+  },
+  "5": {
+    "repoFullName": "daftspunk/laravel-config-writer",
+    "totalPoints": 472.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1392869?v=4"
+  },
+  "6": {
+    "repoFullName": "merill/cmd",
+    "totalPoints": 394,
+    "avatar": "https://avatars.githubusercontent.com/u/1288081?v=4"
+  },
+  "7": {
+    "repoFullName": "jjw24/Wox",
+    "totalPoints": 391,
+    "avatar": "https://avatars.githubusercontent.com/u/26427004?v=4"
+  },
+  "8": {
+    "repoFullName": "daftspunk/dishsmith",
+    "totalPoints": 182,
+    "avatar": "https://avatars.githubusercontent.com/u/1392869?v=4"
+  },
+  "9": {
+    "repoFullName": "merill/bluesky",
+    "totalPoints": 122.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1288081?v=4"
+  },
+  "10": {
+    "repoFullName": "benswift/academic-thesis-template",
+    "totalPoints": 58.5,
+    "avatar": "https://avatars.githubusercontent.com/u/380241?v=4"
+  }
+}

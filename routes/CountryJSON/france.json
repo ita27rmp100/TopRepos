@@ -1,1 +1,52 @@
-{}
+{
+  "1": {
+    "repoFullName": "rouault/dump_gdbtable",
+    "totalPoints": 370,
+    "avatar": "https://avatars.githubusercontent.com/u/1192433?v=4"
+  },
+  "2": {
+    "repoFullName": "ornicar/ApcBundle",
+    "totalPoints": 239.5,
+    "avatar": "https://avatars.githubusercontent.com/u/140370?v=4"
+  },
+  "3": {
+    "repoFullName": "Charles-Chrismann/Charles-Chrismann",
+    "totalPoints": 220,
+    "avatar": "https://avatars.githubusercontent.com/u/78157563?v=4"
+  },
+  "4": {
+    "repoFullName": "rouault/cogserver",
+    "totalPoints": 203,
+    "avatar": "https://avatars.githubusercontent.com/u/1192433?v=4"
+  },
+  "5": {
+    "repoFullName": "Charles-Chrismann/dynamic-readme",
+    "totalPoints": 173,
+    "avatar": "https://avatars.githubusercontent.com/u/78157563?v=4"
+  },
+  "6": {
+    "repoFullName": "rouault/cog_validator",
+    "totalPoints": 165.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1192433?v=4"
+  },
+  "7": {
+    "repoFullName": "poolpOrg/filter-rspamd",
+    "totalPoints": 136.5,
+    "avatar": "https://avatars.githubusercontent.com/u/895503?v=4"
+  },
+  "8": {
+    "repoFullName": "garronej/clean-architecture",
+    "totalPoints": 124,
+    "avatar": "https://avatars.githubusercontent.com/u/6702424?v=4"
+  },
+  "9": {
+    "repoFullName": "ParisNeo/chatgpt-personality-selector",
+    "totalPoints": 101,
+    "avatar": "https://avatars.githubusercontent.com/u/827993?v=4"
+  },
+  "10": {
+    "repoFullName": "vietj/ceylon-cayla",
+    "totalPoints": 96.5,
+    "avatar": "https://avatars.githubusercontent.com/u/225674?v=4"
+  }
+}

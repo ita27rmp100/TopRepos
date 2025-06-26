@@ -1,1 +1,52 @@
-{}
+{
+  "1": {
+    "repoFullName": "korn101/PiNumberStation",
+    "totalPoints": 128.5,
+    "avatar": "https://avatars.githubusercontent.com/u/5478787?v=4"
+  },
+  "2": {
+    "repoFullName": "longhotsummer/za-by-laws",
+    "totalPoints": 40,
+    "avatar": "https://avatars.githubusercontent.com/u/4178542?v=4"
+  },
+  "3": {
+    "repoFullName": "korn101/ArduinoLaunchControl",
+    "totalPoints": 39.5,
+    "avatar": "https://avatars.githubusercontent.com/u/5478787?v=4"
+  },
+  "4": {
+    "repoFullName": "snopoke/cotton-heroicons",
+    "totalPoints": 36,
+    "avatar": "https://avatars.githubusercontent.com/u/249606?v=4"
+  },
+  "5": {
+    "repoFullName": "snopoke/google-safebrowsing2",
+    "totalPoints": 30.5,
+    "avatar": "https://avatars.githubusercontent.com/u/249606?v=4"
+  },
+  "6": {
+    "repoFullName": "korn101/PiControl",
+    "totalPoints": 15.5,
+    "avatar": "https://avatars.githubusercontent.com/u/5478787?v=4"
+  },
+  "7": {
+    "repoFullName": "Tafara-N/Config",
+    "totalPoints": 11,
+    "avatar": "https://avatars.githubusercontent.com/u/136159071?v=4"
+  },
+  "8": {
+    "repoFullName": "Tafara-N/Library",
+    "totalPoints": 10,
+    "avatar": "https://avatars.githubusercontent.com/u/136159071?v=4"
+  },
+  "9": {
+    "repoFullName": "Tafara-N/AirBnB_clone",
+    "totalPoints": 7.5,
+    "avatar": "https://avatars.githubusercontent.com/u/136159071?v=4"
+  },
+  "10": {
+    "repoFullName": "snopoke/cotton-daisyui",
+    "totalPoints": 7.5,
+    "avatar": "https://avatars.githubusercontent.com/u/249606?v=4"
+  }
+}
