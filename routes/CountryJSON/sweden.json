@@ -1,1 +1,52 @@
-{}
+{
+  "1": {
+    "repoFullName": "astrit/css.gg",
+    "totalPoints": 24830,
+    "avatar": "https://avatars.githubusercontent.com/u/2398447?v=4"
+  },
+  "2": {
+    "repoFullName": "pontusab/directories",
+    "totalPoints": 8628,
+    "avatar": "https://avatars.githubusercontent.com/u/655158?v=4"
+  },
+  "3": {
+    "repoFullName": "danielsaidi/Sheeeeeeeeet",
+    "totalPoints": 4422.5,
+    "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
+  },
+  "4": {
+    "repoFullName": "danielsaidi/RichTextKit",
+    "totalPoints": 2865.5,
+    "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
+  },
+  "5": {
+    "repoFullName": "danielsaidi/OnboardingKit",
+    "totalPoints": 2355,
+    "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
+  },
+  "6": {
+    "repoFullName": "hrydgard/minitrace",
+    "totalPoints": 1006,
+    "avatar": "https://avatars.githubusercontent.com/u/130929?v=4"
+  },
+  "7": {
+    "repoFullName": "eerimoq/asn1tools",
+    "totalPoints": 747.5,
+    "avatar": "https://avatars.githubusercontent.com/u/176810?v=4"
+  },
+  "8": {
+    "repoFullName": "pontusab/Fastlane",
+    "totalPoints": 629,
+    "avatar": "https://avatars.githubusercontent.com/u/655158?v=4"
+  },
+  "9": {
+    "repoFullName": "etu/nixconfig",
+    "totalPoints": 350,
+    "avatar": "https://avatars.githubusercontent.com/u/461970?v=4"
+  },
+  "10": {
+    "repoFullName": "etu/0blayout-mode",
+    "totalPoints": 333.5,
+    "avatar": "https://avatars.githubusercontent.com/u/461970?v=4"
+  }
+}
