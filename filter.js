@@ -1,4 +1,5 @@
 const fs = require("fs")
+const api = "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"
 
 async function getTopUsers(country) {
     const url = `https://committers.top/rank_only/${country}.json`;
@@ -11,7 +12,12 @@ async function getTopUsers(country) {
     for (let i = 0; i < topUsers.length; i++) {
         const userUrl = `https://api.github.com/users/${topUsers[i]}`;
         try {
-            let userResponse = await fetch(userUrl);
+            let userResponse= await fetch(userUrl,{
+                                        headers:{
+                                            "Authorization":`token ${api}`,
+                                            "User-agent":"TopRepos"
+                                        }
+                                    });
             let userData = await userResponse.json();
             let accountAgeYears = (new Date() - new Date(userData.created_at)) / (1000 * 3600 * 24 * 365);
             if (accountAgeYears >= 1 && userData.followers >= 10) {
@@ -28,7 +34,12 @@ async function getTopRepos(users){
     for (let i = 0; i < users.length; i++) {
         const serRepoURL = `https://api.github.com/users/${users[i]}/repos`;
         try {
-            let repoResponse = await fetch(serRepoURL);
+            let repoResponse= await fetch(serRepoURL,{
+                                        headers:{
+                                            "Authorization":`token ${api}`,
+                                            "User-agent":"TopRepos"
+                                        }
+                                    })
             let repos = await repoResponse.json();
             repos
                 .sort((a, b) => b.stargazers_count - a.stargazers_count)
@@ -47,11 +58,11 @@ async function getTopRepos(users){
     BestProjects.sort((a,b)=> b.totalPoints - a.totalPoints).slice(0,10)
     return BestProjects
 }
-// filter and post data to CountryHTMML folder
-const delayTime = 45*3600*1000 ;
+
+// filter and post data 
 let countries = require("./countryList.json").countries
 // for (let i = 0; i < countries.length; i++) {
-    const country = countries[0];
+    const country = process.argv[2];
     console.log(process.argv,process.argv[2])
     // setInterval(() => {
         getTopUsers(country).then(filteredUsers => {

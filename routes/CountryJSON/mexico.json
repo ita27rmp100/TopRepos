@@ -1,1 +1,52 @@
-{}
+{
+  "1": {
+    "repoFullName": "edgarrmondragon/gatsby-source-sql",
+    "totalPoints": 81,
+    "avatar": "https://avatars.githubusercontent.com/u/16805946?v=4"
+  },
+  "2": {
+    "repoFullName": "edgarrmondragon/citric",
+    "totalPoints": 55.5,
+    "avatar": "https://avatars.githubusercontent.com/u/16805946?v=4"
+  },
+  "3": {
+    "repoFullName": "holasoymalva/awesome-programming-books",
+    "totalPoints": 43,
+    "avatar": "https://avatars.githubusercontent.com/u/13058234?v=4"
+  },
+  "4": {
+    "repoFullName": "holasoymalva/AI-Study-Jam",
+    "totalPoints": 43,
+    "avatar": "https://avatars.githubusercontent.com/u/13058234?v=4"
+  },
+  "5": {
+    "repoFullName": "holasoymalva/AI-PR-Reviewer-Tasks",
+    "totalPoints": 27.5,
+    "avatar": "https://avatars.githubusercontent.com/u/13058234?v=4"
+  },
+  "6": {
+    "repoFullName": "mnaoumov/Add-GlobalResult",
+    "totalPoints": 14,
+    "avatar": "https://avatars.githubusercontent.com/u/735878?v=4"
+  },
+  "7": {
+    "repoFullName": "darideveloper/colors-app-pyramid-and-supabase",
+    "totalPoints": 11,
+    "avatar": "https://avatars.githubusercontent.com/u/49276865?v=4"
+  },
+  "8": {
+    "repoFullName": "josdem/algorithms-workshop",
+    "totalPoints": 11,
+    "avatar": "https://avatars.githubusercontent.com/u/1222062?v=4"
+  },
+  "9": {
+    "repoFullName": "edgarrmondragon/hatch-pinned-extra",
+    "totalPoints": 10.5,
+    "avatar": "https://avatars.githubusercontent.com/u/16805946?v=4"
+  },
+  "10": {
+    "repoFullName": "ImmediateMurderProfessionals/ImmediateMurderProfessionals",
+    "totalPoints": 8,
+    "avatar": "https://avatars.githubusercontent.com/u/156855194?v=4"
+  }
+}
