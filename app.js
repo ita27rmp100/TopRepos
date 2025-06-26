@@ -5,23 +5,16 @@ const path = require('path');
 const cookieParser = require('cookie-parser');
 const logger = require('morgan');
 const {exec} = require("child_process")
-
+const fs = require("fs")
 // page routes
 const indexRouter = require('./routes/index');
 const topReposRouter = require('./routes/country');
-const { stdout, stderr } = require('process');
 
 const app = express();
 // working on data 
-const countries = ["algeria","egypt", "saudi_arabia",
-                    "united_states", "canada", "brazil", "mexico", "argentina",
-                    "uk", "germany", "france", "italy", "spain", "russia",
-                    "china", "india", "japan", "south_korea", "indonesia", "turkey",
-                    "australia", "new_zealand","belgium","switzerland",
-                    "south_africa", "nigeria", "kenya", "ethiopia",
-                    "uae", "iran","iraq","syria","yemen","qatar",
-                    "poland", "netherlands", "sweden"
-                  ]
+const countries = require("./countryList.json").countries.sort()
+let lastUpdate = new Date(require("./countryList.json").LastUpdate)
+const current = new Date()
 function RecursivePushCountryData(index){
   if(index<countries.length){
     const country = countries[index]
@@ -31,7 +24,17 @@ function RecursivePushCountryData(index){
     })
   }
 }
-RecursivePushCountryData(0)
+ 
+if (Math.floor((current-lastUpdate)/(3600*1000))>24){
+  fs.writeFileSync(
+    path.join(__dirname, "countryList.json"),
+    JSON.stringify({
+      ...require("./countryList.json"),
+      LastUpdate: new Date().toISOString().replace("T"," ").replace("Z","")
+    }, null, 2)
+  )
+  RecursivePushCountryData(0)
+}
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
