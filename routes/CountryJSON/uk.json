@@ -1,1 +1,17 @@
-{}
+{
+  "1": {
+    "repoFullName": "HariSekhon/awesome-command-line-apps",
+    "totalPoints": 35.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2211051?v=4"
+  },
+  "2": {
+    "repoFullName": "HariSekhon/awesome-zsh-plugins",
+    "totalPoints": 22.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2211051?v=4"
+  },
+  "3": {
+    "repoFullName": "HariSekhon/Ansible",
+    "totalPoints": 15,
+    "avatar": "https://avatars.githubusercontent.com/u/2211051?v=4"
+  }
+}
