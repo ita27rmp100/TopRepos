@@ -26,8 +26,6 @@ function RecursivePushCountryData(index){
   if(index<countries.length){
     const country = countries[index]
     exec(`node filter.js ${country}`,(error,stdout,stderr)=>{
-      if(stdout) console.log(country+" : done")
-      if(stderr) console.log("Stderr",stderr)
       if(error) console.log("Error :",error)
       setTimeout(()=>{RecursivePushCountryData(index+1)},5000)
     })

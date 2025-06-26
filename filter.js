@@ -6,7 +6,6 @@ async function getTopUsers(country) {
     let response = await fetch(url);
     let data = await response.json();
     let topUsers = data.user.slice(0, 10);
-
     // Filter users based on account age
     let filteredUsers = [];
     for (let i = 0; i < topUsers.length; i++) {
@@ -60,42 +59,25 @@ async function getTopRepos(users){
 }
 
 // filter and post data 
-let countries = require("./countryList.json").countries
-// for (let i = 0; i < countries.length; i++) {
-    const country = process.argv[2];
-    console.log(process.argv,process.argv[2])
-    // setInterval(() => {
-        getTopUsers(country).then(filteredUsers => {
-            console.log(filteredUsers)
-            let TopList = '' , CountryJSON = {}
-            getTopRepos(filteredUsers).then(bestProjects=>{
-                for (let rank = 0; rank < bestProjects.length && rank < 10; rank++) {
-                    const p = bestProjects[rank];
-                    TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank+1}" points="${p.totalPoints}"></new-repo> \n`;
-                    CountryJSON[String(rank+1)] = p
-                }
-                // Ensure the directory exists before writing
-                const path_HTML = `./routes/CountryHTML/${country}.html`;
-                // write html code
-                fs.mkdirSync('./routes/CountryHTML', { recursive: true });
-                fs.writeFile(path_HTML, TopList, (err) => {
-                    if (err) {
-                        console.error('Error writing file:', err);
-                        return;
-                    }
-                });
-                // write json code
-                const path_JSON = `./routes/CountryJSON/${country}.json`;
-                fs.mkdirSync('./routes/CountryJSON', { recursive: true });
-                fs.writeFile(path_JSON, JSON.stringify(CountryJSON, null, 2), (err) => {
-                    if (err) {
-                        console.error('Error writing file:', err);
-                        return;
-                    }
-                });
-                // end
-                console.log(`${country} : done`)
-            })
+const country = process.argv[2];
+getTopUsers(country).then(filteredUsers => {
+    let TopList = '' , CountryJSON = {}
+    getTopRepos(filteredUsers).then(bestProjects=>{
+        for (let rank = 0; rank < bestProjects.length && rank < 10; rank++) {
+            const p = bestProjects[rank];
+            TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank+1}" points="${p.totalPoints}"></new-repo> \n`;
+            CountryJSON[String(rank+1)] = p
+        }
+        // write json code
+        const path_JSON = `./routes/CountryJSON/${country}.json`;
+        fs.mkdirSync('./routes/CountryJSON', { recursive: true });
+        fs.writeFile(path_JSON, JSON.stringify(CountryJSON, null, 2), (err) => {
+            if (err) {
+                console.error('Error writing file:', err);
+                return;
+            }
         });
-    // },10000);
-// }
+        // end
+        console.log(`${country} : done`)
+    })
+});
