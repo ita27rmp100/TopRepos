@@ -1,6 +1,8 @@
 # TopRepos
 A web project that showcases the top 50 open source repositories on GitHub for each country, based on specific criteria (detailed in this README).
 
+> The project idea is inspired by [committers.top](https://committers.top/).
+
 ## Conditions
 1. Your account must have at least 10 followers.
 2. You must be among the top 10 most active GitHub users, according to the [committers.top](https://committers.top/) ranking.
