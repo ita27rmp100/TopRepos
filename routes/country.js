@@ -3,7 +3,7 @@ const router = express.Router();
 const fs = require("fs")
 const {exec} = require("child_process")
 /* GET home page. */
-router.get('/:country?', function(req, res) {
+router.get('/:country', function(req, res) {
     let req_country = req.params.country.toLowerCase()
     // fetch json data of best projects in that country
     const countryPath = require.resolve(`./CountryJSON/${req_country}`)
@@ -30,5 +30,7 @@ router.get('/:country?', function(req, res) {
         });
     }
 });
-
+router.get("/",function(req,res){
+    res.redirect('/')
+})
 module.exports = router;
