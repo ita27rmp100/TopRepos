@@ -23,7 +23,6 @@
     "fs": "^0.0.1-security",
     "http-errors": "^2.0.0",
     "morgan": "^1.10.0",
-    "node-fetch": "^3.3.2",
     "path": "^0.12.7"
   }
 }
