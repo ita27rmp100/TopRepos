@@ -1,7 +1,7 @@
 {
   "1": {
     "repoFullName": "ilyhalight/voice-over-translation",
-    "totalPoints": 13001,
+    "totalPoints": 13014,
     "avatar": "https://avatars.githubusercontent.com/u/62353659?v=4"
   },
   "2": {
@@ -10,43 +10,43 @@
     "avatar": "https://avatars.githubusercontent.com/u/5102591?v=4"
   },
   "3": {
+    "repoFullName": "mig1023/seeker",
+    "totalPoints": 249.5,
+    "avatar": "https://avatars.githubusercontent.com/u/45512128?v=4"
+  },
+  "4": {
+    "repoFullName": "mig1023/warhammer-army-assembler",
+    "totalPoints": 181,
+    "avatar": "https://avatars.githubusercontent.com/u/45512128?v=4"
+  },
+  "5": {
     "repoFullName": "tabuna/experiment",
     "totalPoints": 143,
     "avatar": "https://avatars.githubusercontent.com/u/5102591?v=4"
   },
-  "4": {
+  "6": {
     "repoFullName": "sadko4u/focusrite-scarlett-backports",
     "totalPoints": 121.5,
     "avatar": "https://avatars.githubusercontent.com/u/12834464?v=4"
   },
-  "5": {
+  "7": {
+    "repoFullName": "mig1023/interceptor",
+    "totalPoints": 118.5,
+    "avatar": "https://avatars.githubusercontent.com/u/45512128?v=4"
+  },
+  "8": {
     "repoFullName": "sadko4u/tamgamp.lv2",
     "totalPoints": 107,
     "avatar": "https://avatars.githubusercontent.com/u/12834464?v=4"
   },
-  "6": {
+  "9": {
     "repoFullName": "andrey-helldar/DigitText",
     "totalPoints": 67,
     "avatar": "https://avatars.githubusercontent.com/u/10347617?v=4"
   },
-  "7": {
+  "10": {
     "repoFullName": "nin-jin/async-js",
     "totalPoints": 53.5,
     "avatar": "https://avatars.githubusercontent.com/u/442988?v=4"
-  },
-  "8": {
-    "repoFullName": "tabuna/awesome",
-    "totalPoints": 52,
-    "avatar": "https://avatars.githubusercontent.com/u/5102591?v=4"
-  },
-  "9": {
-    "repoFullName": "sadko4u/room-raider",
-    "totalPoints": 48,
-    "avatar": "https://avatars.githubusercontent.com/u/12834464?v=4"
-  },
-  "10": {
-    "repoFullName": "BogdanKlimov11/BogdanKlimov11",
-    "totalPoints": 43.5,
-    "avatar": "https://avatars.githubusercontent.com/u/136115919?v=4"
   }
 }

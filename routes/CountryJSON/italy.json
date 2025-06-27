@@ -1,17 +1,17 @@
 {
   "1": {
     "repoFullName": "fast4x/RiMusic",
-    "totalPoints": 8783.5,
+    "totalPoints": 8791,
     "avatar": "https://avatars.githubusercontent.com/u/1484476?v=4"
   },
   "2": {
     "repoFullName": "ivan-hc/AM",
-    "totalPoints": 1957,
+    "totalPoints": 1959.5,
     "avatar": "https://avatars.githubusercontent.com/u/88724353?v=4"
   },
   "3": {
     "repoFullName": "fabriziosalmi/caddy-waf",
-    "totalPoints": 1338.5,
+    "totalPoints": 1341,
     "avatar": "https://avatars.githubusercontent.com/u/1569108?v=4"
   },
   "4": {
@@ -40,13 +40,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/1484476?v=4"
   },
   "9": {
+    "repoFullName": "fabriziosalmi/certmate",
+    "totalPoints": 197.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1569108?v=4"
+  },
+  "10": {
     "repoFullName": "mediocregopher/breadis",
     "totalPoints": 189.5,
     "avatar": "https://avatars.githubusercontent.com/u/933154?v=4"
-  },
-  "10": {
-    "repoFullName": "fabriziosalmi/DevGPT",
-    "totalPoints": 170.5,
-    "avatar": "https://avatars.githubusercontent.com/u/1569108?v=4"
   }
 }
