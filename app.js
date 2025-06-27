@@ -16,7 +16,7 @@ const countries = require("./countryList.json").countries.sort()
 let lastUpdate = new Date(require("./countryList.json").LastUpdate)
 const current = new Date()
 function RecursivePushCountryData(index){
-  if(index<countries.length){
+  if(index<=countries.length){
     const country = countries[index]
     exec(`node filter.js ${country}`,(error,stdout,stderr)=>{
       if(error) console.log("Error :",error)

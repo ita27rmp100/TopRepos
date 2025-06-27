@@ -1,52 +1,52 @@
 {
   "1": {
-    "repoFullName": "soroushmirzaei/telegram-configs-collector",
-    "totalPoints": 3303.5,
-    "avatar": "https://avatars.githubusercontent.com/u/102311759?v=4"
-  },
-  "2": {
     "repoFullName": "ircfspace/warpkey",
     "totalPoints": 1167,
     "avatar": "https://avatars.githubusercontent.com/u/128790947?v=4"
   },
-  "3": {
+  "2": {
     "repoFullName": "ircfspace/fragment",
-    "totalPoints": 915,
+    "totalPoints": 917.5,
     "avatar": "https://avatars.githubusercontent.com/u/128790947?v=4"
   },
-  "4": {
+  "3": {
     "repoFullName": "ircfspace/tconfig",
     "totalPoints": 714.5,
     "avatar": "https://avatars.githubusercontent.com/u/128790947?v=4"
   },
-  "5": {
-    "repoFullName": "soroushmirzaei/telegram-proxies-collector",
-    "totalPoints": 493.5,
-    "avatar": "https://avatars.githubusercontent.com/u/102311759?v=4"
-  },
-  "6": {
+  "4": {
     "repoFullName": "alireza787b/mavsdk_drone_show",
     "totalPoints": 478.5,
     "avatar": "https://avatars.githubusercontent.com/u/30341941?v=4"
   },
-  "7": {
+  "5": {
     "repoFullName": "ALIILAPRO/Proxy",
     "totalPoints": 383,
     "avatar": "https://avatars.githubusercontent.com/u/27723504?v=4"
   },
-  "8": {
+  "6": {
     "repoFullName": "mheidari98/.proxy",
-    "totalPoints": 358.5,
+    "totalPoints": 361,
     "avatar": "https://avatars.githubusercontent.com/u/84391363?v=4"
   },
-  "9": {
+  "7": {
     "repoFullName": "ALIILAPRO/MTProtoProxy",
     "totalPoints": 286.5,
     "avatar": "https://avatars.githubusercontent.com/u/27723504?v=4"
   },
-  "10": {
+  "8": {
     "repoFullName": "ALIILAPRO/dns-changer",
     "totalPoints": 276,
     "avatar": "https://avatars.githubusercontent.com/u/27723504?v=4"
+  },
+  "9": {
+    "repoFullName": "alireza787b/px4xplane",
+    "totalPoints": 144,
+    "avatar": "https://avatars.githubusercontent.com/u/30341941?v=4"
+  },
+  "10": {
+    "repoFullName": "mheidari98/proxyUtil",
+    "totalPoints": 131.5,
+    "avatar": "https://avatars.githubusercontent.com/u/84391363?v=4"
   }
 }

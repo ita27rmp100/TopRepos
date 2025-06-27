@@ -1,12 +1,12 @@
 {
   "1": {
     "repoFullName": "merill/awesome-entra",
-    "totalPoints": 1539,
+    "totalPoints": 1554,
     "avatar": "https://avatars.githubusercontent.com/u/1288081?v=4"
   },
   "2": {
     "repoFullName": "aaronparker/evergreen",
-    "totalPoints": 1023,
+    "totalPoints": 1025,
     "avatar": "https://avatars.githubusercontent.com/u/8227455?v=4"
   },
   "3": {
@@ -16,7 +16,7 @@
   },
   "4": {
     "repoFullName": "aaronparker/icons",
-    "totalPoints": 489.5,
+    "totalPoints": 492,
     "avatar": "https://avatars.githubusercontent.com/u/8227455?v=4"
   },
   "5": {
@@ -35,18 +35,18 @@
     "avatar": "https://avatars.githubusercontent.com/u/26427004?v=4"
   },
   "8": {
+    "repoFullName": "abstractspoon/ToDoList_Dev",
+    "totalPoints": 310,
+    "avatar": "https://avatars.githubusercontent.com/u/12944354?v=4"
+  },
+  "9": {
     "repoFullName": "daftspunk/dishsmith",
     "totalPoints": 182,
     "avatar": "https://avatars.githubusercontent.com/u/1392869?v=4"
   },
-  "9": {
-    "repoFullName": "merill/bluesky",
-    "totalPoints": 122.5,
-    "avatar": "https://avatars.githubusercontent.com/u/1288081?v=4"
-  },
   "10": {
-    "repoFullName": "benswift/academic-thesis-template",
-    "totalPoints": 58.5,
-    "avatar": "https://avatars.githubusercontent.com/u/380241?v=4"
+    "repoFullName": "abstractspoon/ToDoList_Downloads",
+    "totalPoints": 180,
+    "avatar": "https://avatars.githubusercontent.com/u/12944354?v=4"
   }
 }
