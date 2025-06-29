@@ -1,52 +1,52 @@
 {
   "1": {
+    "repoFullName": "mitchellkrogza/apache-ultimate-bad-bot-blocker",
+    "totalPoints": 2274.5,
+    "avatar": "https://avatars.githubusercontent.com/u/9961541?v=4"
+  },
+  "2": {
+    "repoFullName": "ruanbekker/awesome-docker-compose",
+    "totalPoints": 562,
+    "avatar": "https://avatars.githubusercontent.com/u/567298?v=4"
+  },
+  "3": {
+    "repoFullName": "ruanbekker/ansible-docker-swarm",
+    "totalPoints": 465.5,
+    "avatar": "https://avatars.githubusercontent.com/u/567298?v=4"
+  },
+  "4": {
+    "repoFullName": "mitchellkrogza/Badd-Boyz-Hosts",
+    "totalPoints": 284.5,
+    "avatar": "https://avatars.githubusercontent.com/u/9961541?v=4"
+  },
+  "5": {
     "repoFullName": "korn101/PiNumberStation",
     "totalPoints": 128.5,
     "avatar": "https://avatars.githubusercontent.com/u/5478787?v=4"
   },
-  "2": {
+  "6": {
+    "repoFullName": "ruanbekker/awesome-list",
+    "totalPoints": 85,
+    "avatar": "https://avatars.githubusercontent.com/u/567298?v=4"
+  },
+  "7": {
     "repoFullName": "longhotsummer/za-by-laws",
     "totalPoints": 40,
     "avatar": "https://avatars.githubusercontent.com/u/4178542?v=4"
   },
-  "3": {
+  "8": {
     "repoFullName": "korn101/ArduinoLaunchControl",
     "totalPoints": 39.5,
     "avatar": "https://avatars.githubusercontent.com/u/5478787?v=4"
   },
-  "4": {
-    "repoFullName": "snopoke/cotton-heroicons",
-    "totalPoints": 36,
-    "avatar": "https://avatars.githubusercontent.com/u/249606?v=4"
-  },
-  "5": {
-    "repoFullName": "snopoke/google-safebrowsing2",
-    "totalPoints": 30.5,
-    "avatar": "https://avatars.githubusercontent.com/u/249606?v=4"
-  },
-  "6": {
-    "repoFullName": "korn101/PiControl",
-    "totalPoints": 15.5,
-    "avatar": "https://avatars.githubusercontent.com/u/5478787?v=4"
-  },
-  "7": {
-    "repoFullName": "Tafara-N/Config",
-    "totalPoints": 11,
-    "avatar": "https://avatars.githubusercontent.com/u/136159071?v=4"
-  },
-  "8": {
-    "repoFullName": "Tafara-N/Library",
-    "totalPoints": 10,
-    "avatar": "https://avatars.githubusercontent.com/u/136159071?v=4"
-  },
   "9": {
-    "repoFullName": "Tafara-N/AirBnB_clone",
-    "totalPoints": 7.5,
-    "avatar": "https://avatars.githubusercontent.com/u/136159071?v=4"
+    "repoFullName": "mitchellkrogza/Badd-Boyz-Bitcoin-Scammers",
+    "totalPoints": 37.5,
+    "avatar": "https://avatars.githubusercontent.com/u/9961541?v=4"
   },
   "10": {
-    "repoFullName": "snopoke/cotton-daisyui",
-    "totalPoints": 7.5,
+    "repoFullName": "snopoke/cotton-heroicons",
+    "totalPoints": 36,
     "avatar": "https://avatars.githubusercontent.com/u/249606?v=4"
   }
 }

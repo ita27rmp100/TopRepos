@@ -1,7 +1,7 @@
 {
   "1": {
     "repoFullName": "folke/dot",
-    "totalPoints": 2647.5,
+    "totalPoints": 2650,
     "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
   },
   "2": {
@@ -15,38 +15,38 @@
     "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
   },
   "4": {
-    "repoFullName": "gjbex/Fortran-MOOC",
-    "totalPoints": 121,
-    "avatar": "https://avatars.githubusercontent.com/u/4801336?v=4"
+    "repoFullName": "folke/devmoji",
+    "totalPoints": 911,
+    "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
   },
   "5": {
-    "repoFullName": "gjbex/DPD",
-    "totalPoints": 89,
-    "avatar": "https://avatars.githubusercontent.com/u/4801336?v=4"
+    "repoFullName": "folke/drop.nvim",
+    "totalPoints": 796,
+    "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
   },
   "6": {
-    "repoFullName": "Sitebase/cssinjs",
-    "totalPoints": 85,
-    "avatar": "https://avatars.githubusercontent.com/u/421104?v=4"
+    "repoFullName": "freekmurze/awesome-laravel-1",
+    "totalPoints": 258,
+    "avatar": "https://avatars.githubusercontent.com/u/483853?v=4"
   },
   "7": {
-    "repoFullName": "drupol/composer-packages",
-    "totalPoints": 83.5,
-    "avatar": "https://avatars.githubusercontent.com/u/252042?v=4"
+    "repoFullName": "robiningelbrecht/pokemon-card-generator",
+    "totalPoints": 226.5,
+    "avatar": "https://avatars.githubusercontent.com/u/203894?v=4"
   },
   "8": {
-    "repoFullName": "pheyvaer/kitsu-tutorial",
-    "totalPoints": 75,
-    "avatar": "https://avatars.githubusercontent.com/u/9413528?v=4"
+    "repoFullName": "snicoll/demo-multi-entity-managers",
+    "totalPoints": 225,
+    "avatar": "https://avatars.githubusercontent.com/u/490484?v=4"
   },
   "9": {
-    "repoFullName": "drupol/drupal-conventions",
-    "totalPoints": 56.5,
-    "avatar": "https://avatars.githubusercontent.com/u/252042?v=4"
+    "repoFullName": "robiningelbrecht/phpunit-pretty-print",
+    "totalPoints": 176,
+    "avatar": "https://avatars.githubusercontent.com/u/203894?v=4"
   },
   "10": {
-    "repoFullName": "matttbe/docker-shadowsocks-c",
-    "totalPoints": 34.5,
-    "avatar": "https://avatars.githubusercontent.com/u/768677?v=4"
+    "repoFullName": "snicoll/cfp-example",
+    "totalPoints": 162.5,
+    "avatar": "https://avatars.githubusercontent.com/u/490484?v=4"
   }
 }

@@ -5,48 +5,48 @@
     "avatar": "https://avatars.githubusercontent.com/u/43724913?v=4"
   },
   "2": {
+    "repoFullName": "anatawa12/AvatarOptimizer",
+    "totalPoints": 543,
+    "avatar": "https://avatars.githubusercontent.com/u/22656849?v=4"
+  },
+  "3": {
     "repoFullName": "bobbens/clothes_parsing",
     "totalPoints": 308,
     "avatar": "https://avatars.githubusercontent.com/u/54677?v=4"
   },
-  "3": {
+  "4": {
     "repoFullName": "j5ik2o/akka-ddd-cqrs-es-example",
     "totalPoints": 219,
     "avatar": "https://avatars.githubusercontent.com/u/461711?v=4"
   },
-  "4": {
+  "5": {
     "repoFullName": "guitarrapc/AzureFunctionsIntroduction",
     "totalPoints": 215.5,
     "avatar": "https://avatars.githubusercontent.com/u/3856350?v=4"
   },
-  "5": {
+  "6": {
     "repoFullName": "shogo82148/actions-setup-perl",
-    "totalPoints": 210,
+    "totalPoints": 212,
     "avatar": "https://avatars.githubusercontent.com/u/1157344?v=4"
   },
-  "6": {
+  "7": {
+    "repoFullName": "peppy/osu",
+    "totalPoints": 191,
+    "avatar": "https://avatars.githubusercontent.com/u/191335?v=4"
+  },
+  "8": {
     "repoFullName": "bobbens/cvpr2016_stylenet",
     "totalPoints": 183,
     "avatar": "https://avatars.githubusercontent.com/u/54677?v=4"
   },
-  "7": {
+  "9": {
     "repoFullName": "shogo82148/actions-setup-mysql",
     "totalPoints": 140,
     "avatar": "https://avatars.githubusercontent.com/u/1157344?v=4"
   },
-  "8": {
+  "10": {
     "repoFullName": "shogo82148/actions-goveralls",
     "totalPoints": 133,
     "avatar": "https://avatars.githubusercontent.com/u/1157344?v=4"
-  },
-  "9": {
-    "repoFullName": "j5ik2o/akka-persistence-dynamodb",
-    "totalPoints": 90.5,
-    "avatar": "https://avatars.githubusercontent.com/u/461711?v=4"
-  },
-  "10": {
-    "repoFullName": "taiki-e/atomic-memcpy",
-    "totalPoints": 89,
-    "avatar": "https://avatars.githubusercontent.com/u/43724913?v=4"
   }
 }

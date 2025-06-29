@@ -1,52 +1,52 @@
 {
   "1": {
-    "repoFullName": "revenz/FileFlows",
-    "totalPoints": 1944,
-    "avatar": "https://avatars.githubusercontent.com/u/958400?v=4"
+    "repoFullName": "cortesi/devd",
+    "totalPoints": 8685,
+    "avatar": "https://avatars.githubusercontent.com/u/22544?v=4"
   },
   "2": {
+    "repoFullName": "cortesi/modd",
+    "totalPoints": 7208.5,
+    "avatar": "https://avatars.githubusercontent.com/u/22544?v=4"
+  },
+  "3": {
+    "repoFullName": "scottmckendry/cyberdream.nvim",
+    "totalPoints": 2590.5,
+    "avatar": "https://avatars.githubusercontent.com/u/39483124?v=4"
+  },
+  "4": {
+    "repoFullName": "revenz/FileFlows",
+    "totalPoints": 1946.5,
+    "avatar": "https://avatars.githubusercontent.com/u/958400?v=4"
+  },
+  "5": {
     "repoFullName": "revenz/Fenrus",
     "totalPoints": 1675.5,
     "avatar": "https://avatars.githubusercontent.com/u/958400?v=4"
   },
-  "3": {
-    "repoFullName": "ryanbr/fanboy-adblock",
-    "totalPoints": 764,
-    "avatar": "https://avatars.githubusercontent.com/u/1659004?v=4"
-  },
-  "4": {
-    "repoFullName": "revenz/FileFlowsRepository",
-    "totalPoints": 326,
-    "avatar": "https://avatars.githubusercontent.com/u/958400?v=4"
-  },
-  "5": {
-    "repoFullName": "ioquatix/bake",
-    "totalPoints": 255,
-    "avatar": "https://avatars.githubusercontent.com/u/30030?v=4"
-  },
   "6": {
-    "repoFullName": "fracpete/collective-classification-weka-package",
-    "totalPoints": 58,
-    "avatar": "https://avatars.githubusercontent.com/u/1026180?v=4"
+    "repoFullName": "cortesi/scurve",
+    "totalPoints": 1322,
+    "avatar": "https://avatars.githubusercontent.com/u/22544?v=4"
   },
   "7": {
-    "repoFullName": "ryanbr/Destroy-Windows-10-Spying",
-    "totalPoints": 51.5,
-    "avatar": "https://avatars.githubusercontent.com/u/1659004?v=4"
+    "repoFullName": "liamcottle/reticulum-meshchat",
+    "totalPoints": 961,
+    "avatar": "https://avatars.githubusercontent.com/u/3173581?v=4"
   },
   "8": {
-    "repoFullName": "ioquatix/bake-test-external",
-    "totalPoints": 42.5,
-    "avatar": "https://avatars.githubusercontent.com/u/30030?v=4"
+    "repoFullName": "ryanbr/fanboy-adblock",
+    "totalPoints": 763,
+    "avatar": "https://avatars.githubusercontent.com/u/1659004?v=4"
   },
   "9": {
-    "repoFullName": "jacobtread/Axel",
-    "totalPoints": 37.5,
-    "avatar": "https://avatars.githubusercontent.com/u/33708767?v=4"
+    "repoFullName": "liamcottle/meshtastic-map",
+    "totalPoints": 463,
+    "avatar": "https://avatars.githubusercontent.com/u/3173581?v=4"
   },
   "10": {
-    "repoFullName": "ioquatix/activerecord-migrations",
-    "totalPoints": 37,
-    "avatar": "https://avatars.githubusercontent.com/u/30030?v=4"
+    "repoFullName": "revenz/FileFlowsRepository",
+    "totalPoints": 328,
+    "avatar": "https://avatars.githubusercontent.com/u/958400?v=4"
   }
 }

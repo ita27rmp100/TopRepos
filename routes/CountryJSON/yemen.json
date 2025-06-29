@@ -1,52 +1,52 @@
 {
   "1": {
+    "repoFullName": "omaralalwi/Gpdf",
+    "totalPoints": 291.5,
+    "avatar": "https://avatars.githubusercontent.com/u/25439498?v=4"
+  },
+  "2": {
+    "repoFullName": "omaralalwi/laravel-startkit",
+    "totalPoints": 236,
+    "avatar": "https://avatars.githubusercontent.com/u/25439498?v=4"
+  },
+  "3": {
     "repoFullName": "Hetari/pyutube",
     "totalPoints": 173.5,
     "avatar": "https://avatars.githubusercontent.com/u/108173819?v=4"
   },
-  "2": {
+  "4": {
+    "repoFullName": "omaralalwi/lexi-translate",
+    "totalPoints": 119,
+    "avatar": "https://avatars.githubusercontent.com/u/25439498?v=4"
+  },
+  "5": {
+    "repoFullName": "omaralalwi/laravel-py",
+    "totalPoints": 117,
+    "avatar": "https://avatars.githubusercontent.com/u/25439498?v=4"
+  },
+  "6": {
+    "repoFullName": "omaralalwi/laravel-taxify",
+    "totalPoints": 109.5,
+    "avatar": "https://avatars.githubusercontent.com/u/25439498?v=4"
+  },
+  "7": {
     "repoFullName": "Hetari/portfolio",
     "totalPoints": 61,
     "avatar": "https://avatars.githubusercontent.com/u/108173819?v=4"
   },
-  "3": {
+  "8": {
     "repoFullName": "DrDataYE/DrDos",
     "totalPoints": 56,
     "avatar": "https://avatars.githubusercontent.com/u/135477108?v=4"
   },
-  "4": {
-    "repoFullName": "al-saloul/msegat-laravel",
-    "totalPoints": 51.5,
-    "avatar": "https://avatars.githubusercontent.com/u/96193006?v=4"
-  },
-  "5": {
+  "9": {
     "repoFullName": "Esmail-ibraheem/Axon",
     "totalPoints": 50.5,
     "avatar": "https://avatars.githubusercontent.com/u/113830751?v=4"
   },
-  "6": {
-    "repoFullName": "al-saloul/encryption-number",
-    "totalPoints": 44.5,
-    "avatar": "https://avatars.githubusercontent.com/u/96193006?v=4"
-  },
-  "7": {
+  "10": {
     "repoFullName": "Esmail-ibraheem/llms-server",
     "totalPoints": 44,
     "avatar": "https://avatars.githubusercontent.com/u/113830751?v=4"
-  },
-  "8": {
-    "repoFullName": "DrDataYE/DrGPT",
-    "totalPoints": 41.5,
-    "avatar": "https://avatars.githubusercontent.com/u/135477108?v=4"
-  },
-  "9": {
-    "repoFullName": "Hetari/vue-and-react-library-template",
-    "totalPoints": 33.5,
-    "avatar": "https://avatars.githubusercontent.com/u/108173819?v=4"
-  },
-  "10": {
-    "repoFullName": "al-saloul/microtec-laravel",
-    "totalPoints": 33,
-    "avatar": "https://avatars.githubusercontent.com/u/96193006?v=4"
   }
 }

@@ -1,52 +1,52 @@
 {
   "1": {
+    "repoFullName": "steipete/Aspects",
+    "totalPoints": 21556,
+    "avatar": "https://avatars.githubusercontent.com/u/58493?v=4"
+  },
+  "2": {
     "repoFullName": "issus/altium-library",
     "totalPoints": 5567.5,
     "avatar": "https://avatars.githubusercontent.com/u/1425724?v=4"
   },
-  "2": {
+  "3": {
+    "repoFullName": "steipete/agent-rules",
+    "totalPoints": 4719.5,
+    "avatar": "https://avatars.githubusercontent.com/u/58493?v=4"
+  },
+  "4": {
+    "repoFullName": "steipete/AFDownloadRequestOperation",
+    "totalPoints": 2686,
+    "avatar": "https://avatars.githubusercontent.com/u/58493?v=4"
+  },
+  "5": {
     "repoFullName": "jamesroutley/24a2",
     "totalPoints": 1798.5,
     "avatar": "https://avatars.githubusercontent.com/u/5308905?v=4"
   },
-  "3": {
-    "repoFullName": "spences10/cheat-sheets",
-    "totalPoints": 585,
-    "avatar": "https://avatars.githubusercontent.com/u/234708?v=4"
-  },
-  "4": {
-    "repoFullName": "avs-abhishek123/Aec-Library-Website",
-    "totalPoints": 208,
-    "avatar": "https://avatars.githubusercontent.com/u/44190447?v=4"
-  },
-  "5": {
-    "repoFullName": "issus/AltiumSharp",
-    "totalPoints": 200.5,
-    "avatar": "https://avatars.githubusercontent.com/u/1425724?v=4"
-  },
   "6": {
-    "repoFullName": "issus/DifferentialProbe",
-    "totalPoints": 183.5,
-    "avatar": "https://avatars.githubusercontent.com/u/1425724?v=4"
+    "repoFullName": "paulrobertlloyd/barebones",
+    "totalPoints": 1684,
+    "avatar": "https://avatars.githubusercontent.com/u/813383?v=4"
   },
   "7": {
-    "repoFullName": "TomWhitwell/Euclidean-sequencer-",
-    "totalPoints": 183,
-    "avatar": "https://avatars.githubusercontent.com/u/1890544?v=4"
+    "repoFullName": "steipete/claude-code-mcp",
+    "totalPoints": 1045.5,
+    "avatar": "https://avatars.githubusercontent.com/u/58493?v=4"
   },
   "8": {
-    "repoFullName": "TomWhitwell/MTM-Parts-Library",
-    "totalPoints": 143,
-    "avatar": "https://avatars.githubusercontent.com/u/1890544?v=4"
+    "repoFullName": "spences10/cheat-sheets",
+    "totalPoints": 592,
+    "avatar": "https://avatars.githubusercontent.com/u/234708?v=4"
   },
   "9": {
-    "repoFullName": "TomWhitwell/Axo-Control",
-    "totalPoints": 132,
-    "avatar": "https://avatars.githubusercontent.com/u/1890544?v=4"
+    "repoFullName": "paulrobertlloyd/socialmediaicons",
+    "totalPoints": 309,
+    "avatar": "https://avatars.githubusercontent.com/u/813383?v=4"
   },
   "10": {
-    "repoFullName": "spences10/cv",
-    "totalPoints": 87.5,
-    "avatar": "https://avatars.githubusercontent.com/u/234708?v=4"
+    "repoFullName": "steipete/CodeLooper",
+    "totalPoints": 245.5,
+    "avatar": "https://avatars.githubusercontent.com/u/58493?v=4"
   }
 }

@@ -1,52 +1,52 @@
 {
   "1": {
-    "repoFullName": "dahlia/awesome-sqlalchemy",
-    "totalPoints": 7397,
-    "avatar": "https://avatars.githubusercontent.com/u/12431?v=4"
+    "repoFullName": "JaKooLit/Arch-Hyprland",
+    "totalPoints": 7819.5,
+    "avatar": "https://avatars.githubusercontent.com/u/85185940?v=4"
   },
   "2": {
+    "repoFullName": "dahlia/awesome-sqlalchemy",
+    "totalPoints": 7394.5,
+    "avatar": "https://avatars.githubusercontent.com/u/12431?v=4"
+  },
+  "3": {
+    "repoFullName": "JaKooLit/Hyprland-Dots",
+    "totalPoints": 5618.5,
+    "avatar": "https://avatars.githubusercontent.com/u/85185940?v=4"
+  },
+  "4": {
     "repoFullName": "graykode/distribution-is-all-you-need",
     "totalPoints": 4269.5,
     "avatar": "https://avatars.githubusercontent.com/u/10525011?v=4"
   },
-  "3": {
+  "5": {
+    "repoFullName": "JaKooLit/Fedora-Hyprland",
+    "totalPoints": 4140.5,
+    "avatar": "https://avatars.githubusercontent.com/u/85185940?v=4"
+  },
+  "6": {
+    "repoFullName": "anaclumos/bing-chat-for-all-browsers",
+    "totalPoints": 3720.5,
+    "avatar": "https://avatars.githubusercontent.com/u/31657298?v=4"
+  },
+  "7": {
     "repoFullName": "graykode/gpt-2-Pytorch",
     "totalPoints": 2598.5,
     "avatar": "https://avatars.githubusercontent.com/u/10525011?v=4"
   },
-  "4": {
-    "repoFullName": "samchon/backend",
-    "totalPoints": 1747,
-    "avatar": "https://avatars.githubusercontent.com/u/13158709?v=4"
-  },
-  "5": {
-    "repoFullName": "jhj0517/AdvancedLivePortrait-WebUI",
-    "totalPoints": 1257.5,
-    "avatar": "https://avatars.githubusercontent.com/u/97279763?v=4"
-  },
-  "6": {
-    "repoFullName": "graykode/commit-autosuggestions",
-    "totalPoints": 977,
-    "avatar": "https://avatars.githubusercontent.com/u/10525011?v=4"
-  },
-  "7": {
-    "repoFullName": "utilForever/2023-MatKor-Rust-Interpreter",
-    "totalPoints": 875,
-    "avatar": "https://avatars.githubusercontent.com/u/5622661?v=4"
-  },
   "8": {
-    "repoFullName": "utilForever/2022-Korea-Rust-Backend",
-    "totalPoints": 390.5,
-    "avatar": "https://avatars.githubusercontent.com/u/5622661?v=4"
+    "repoFullName": "JaKooLit/Debian-Hyprland",
+    "totalPoints": 2583,
+    "avatar": "https://avatars.githubusercontent.com/u/85185940?v=4"
   },
   "9": {
-    "repoFullName": "utilForever/2022-Make-Interpreter-Rust",
-    "totalPoints": 354,
-    "avatar": "https://avatars.githubusercontent.com/u/5622661?v=4"
+    "repoFullName": "samchon/backend",
+    "totalPoints": 1749.5,
+    "avatar": "https://avatars.githubusercontent.com/u/13158709?v=4"
   },
   "10": {
-    "repoFullName": "samchon/awesome-typescript-korean",
-    "totalPoints": 289,
-    "avatar": "https://avatars.githubusercontent.com/u/13158709?v=4"
+    "repoFullName": "hahwul/a2sv",
+    "totalPoints": 1646,
+    "avatar": "https://avatars.githubusercontent.com/u/13212227?v=4"
   }
 }

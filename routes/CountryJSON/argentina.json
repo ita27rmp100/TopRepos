@@ -1,52 +1,52 @@
 {
   "1": {
-    "repoFullName": "catdevnull/awesome-zig",
-    "totalPoints": 1182,
-    "avatar": "https://avatars.githubusercontent.com/u/86896666?v=4"
+    "repoFullName": "lucperkins/colossus",
+    "totalPoints": 2628,
+    "avatar": "https://avatars.githubusercontent.com/u/1523104?v=4"
   },
   "2": {
+    "repoFullName": "catdevnull/awesome-zig",
+    "totalPoints": 1184.5,
+    "avatar": "https://avatars.githubusercontent.com/u/86896666?v=4"
+  },
+  "3": {
+    "repoFullName": "enzonotario/esjs-dolar-api",
+    "totalPoints": 910.5,
+    "avatar": "https://avatars.githubusercontent.com/u/10469299?v=4"
+  },
+  "4": {
+    "repoFullName": "lndgalante/codewars-katas",
+    "totalPoints": 827,
+    "avatar": "https://avatars.githubusercontent.com/u/2475912?v=4"
+  },
+  "5": {
     "repoFullName": "xplshn/dbin",
     "totalPoints": 601.5,
     "avatar": "https://avatars.githubusercontent.com/u/114888778?v=4"
   },
-  "3": {
+  "6": {
     "repoFullName": "elrebelde21/LoliBot-MD",
-    "totalPoints": 513.5,
+    "totalPoints": 516,
     "avatar": "https://avatars.githubusercontent.com/u/107805973?v=4"
   },
-  "4": {
+  "7": {
     "repoFullName": "elrebelde21/NovaBot-MD",
     "totalPoints": 476.5,
     "avatar": "https://avatars.githubusercontent.com/u/107805973?v=4"
   },
-  "5": {
+  "8": {
+    "repoFullName": "astrovm/hosty",
+    "totalPoints": 360.5,
+    "avatar": "https://avatars.githubusercontent.com/u/5521045?v=4"
+  },
+  "9": {
+    "repoFullName": "gerlero/foamlib",
+    "totalPoints": 287.5,
+    "avatar": "https://avatars.githubusercontent.com/u/15150530?v=4"
+  },
+  "10": {
     "repoFullName": "elrebelde21/The-LoliBot-MD2",
     "totalPoints": 266.5,
     "avatar": "https://avatars.githubusercontent.com/u/107805973?v=4"
-  },
-  "6": {
-    "repoFullName": "Yakuhito/GreenWeb.js",
-    "totalPoints": 86.5,
-    "avatar": "https://avatars.githubusercontent.com/u/21041341?v=4"
-  },
-  "7": {
-    "repoFullName": "catdevnull/flybondi.fail",
-    "totalPoints": 76.5,
-    "avatar": "https://avatars.githubusercontent.com/u/86896666?v=4"
-  },
-  "8": {
-    "repoFullName": "kzu/AutoCodeFix",
-    "totalPoints": 63,
-    "avatar": "https://avatars.githubusercontent.com/u/169707?v=4"
-  },
-  "9": {
-    "repoFullName": "ggarra13/ifmapper",
-    "totalPoints": 40,
-    "avatar": "https://avatars.githubusercontent.com/u/6072843?v=4"
-  },
-  "10": {
-    "repoFullName": "xplshn/AppBundleHUB",
-    "totalPoints": 39,
-    "avatar": "https://avatars.githubusercontent.com/u/114888778?v=4"
   }
 }

@@ -1,52 +1,52 @@
 {
   "1": {
-    "repoFullName": "horsicq/Detect-It-Easy",
-    "totalPoints": 22550,
-    "avatar": "https://avatars.githubusercontent.com/u/7762949?v=4"
+    "repoFullName": "brillout/awesome-react-components",
+    "totalPoints": 113691,
+    "avatar": "https://avatars.githubusercontent.com/u/1005638?v=4"
   },
   "2": {
-    "repoFullName": "horsicq/DIE-engine",
-    "totalPoints": 6834,
+    "repoFullName": "horsicq/Detect-It-Easy",
+    "totalPoints": 22584,
     "avatar": "https://avatars.githubusercontent.com/u/7762949?v=4"
   },
   "3": {
+    "repoFullName": "sebastianbergmann/diff",
+    "totalPoints": 19107.5,
+    "avatar": "https://avatars.githubusercontent.com/u/25218?v=4"
+  },
+  "4": {
+    "repoFullName": "sebastianbergmann/comparator",
+    "totalPoints": 17624.5,
+    "avatar": "https://avatars.githubusercontent.com/u/25218?v=4"
+  },
+  "5": {
+    "repoFullName": "sebastianbergmann/exporter",
+    "totalPoints": 17063.5,
+    "avatar": "https://avatars.githubusercontent.com/u/25218?v=4"
+  },
+  "6": {
+    "repoFullName": "sebastianbergmann/environment",
+    "totalPoints": 16943.5,
+    "avatar": "https://avatars.githubusercontent.com/u/25218?v=4"
+  },
+  "7": {
+    "repoFullName": "sebastianbergmann/code-unit-reverse-lookup",
+    "totalPoints": 16756,
+    "avatar": "https://avatars.githubusercontent.com/u/25218?v=4"
+  },
+  "8": {
+    "repoFullName": "brillout/awesome-angular-components",
+    "totalPoints": 8215.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1005638?v=4"
+  },
+  "9": {
+    "repoFullName": "horsicq/DIE-engine",
+    "totalPoints": 6845.5,
+    "avatar": "https://avatars.githubusercontent.com/u/7762949?v=4"
+  },
+  "10": {
     "repoFullName": "hannobraun/fornjot",
     "totalPoints": 5606,
     "avatar": "https://avatars.githubusercontent.com/u/85732?v=4"
-  },
-  "4": {
-    "repoFullName": "horsicq/PDBRipper",
-    "totalPoints": 2129.5,
-    "avatar": "https://avatars.githubusercontent.com/u/7762949?v=4"
-  },
-  "5": {
-    "repoFullName": "propensive/contextual",
-    "totalPoints": 634,
-    "avatar": "https://avatars.githubusercontent.com/u/1024588?v=4"
-  },
-  "6": {
-    "repoFullName": "marcobiedermann/awesome-bookmarklets",
-    "totalPoints": 580,
-    "avatar": "https://avatars.githubusercontent.com/u/5244986?v=4"
-  },
-  "7": {
-    "repoFullName": "chrisgrieser/alfred-bibtex-citation-picker",
-    "totalPoints": 379,
-    "avatar": "https://avatars.githubusercontent.com/u/73286100?v=4"
-  },
-  "8": {
-    "repoFullName": "chrisguttandin/angular-prerender",
-    "totalPoints": 316,
-    "avatar": "https://avatars.githubusercontent.com/u/158417?v=4"
-  },
-  "9": {
-    "repoFullName": "chrisgrieser/.config",
-    "totalPoints": 306.5,
-    "avatar": "https://avatars.githubusercontent.com/u/73286100?v=4"
-  },
-  "10": {
-    "repoFullName": "chrisgrieser/finder-vim-mode",
-    "totalPoints": 259.5,
-    "avatar": "https://avatars.githubusercontent.com/u/73286100?v=4"
   }
 }

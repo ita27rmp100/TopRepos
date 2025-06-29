@@ -1,52 +1,52 @@
 {
   "1": {
+    "repoFullName": "stephane-caron/pink",
+    "totalPoints": 1182.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1189580?v=4"
+  },
+  "2": {
+    "repoFullName": "fxcoudert/gfortran-for-macOS",
+    "totalPoints": 896,
+    "avatar": "https://avatars.githubusercontent.com/u/1980544?v=4"
+  },
+  "3": {
+    "repoFullName": "HugoRCD/canvas",
+    "totalPoints": 771.5,
+    "avatar": "https://avatars.githubusercontent.com/u/71938701?v=4"
+  },
+  "4": {
+    "repoFullName": "stephane-caron/lipm_walking_controller",
+    "totalPoints": 655,
+    "avatar": "https://avatars.githubusercontent.com/u/1189580?v=4"
+  },
+  "5": {
+    "repoFullName": "jedisct1/as-wasi",
+    "totalPoints": 646,
+    "avatar": "https://avatars.githubusercontent.com/u/124872?v=4"
+  },
+  "6": {
+    "repoFullName": "jedisct1/blacknurse",
+    "totalPoints": 465,
+    "avatar": "https://avatars.githubusercontent.com/u/124872?v=4"
+  },
+  "7": {
+    "repoFullName": "jedisct1/bitbar-dnscrypt-proxy-switcher",
+    "totalPoints": 396,
+    "avatar": "https://avatars.githubusercontent.com/u/124872?v=4"
+  },
+  "8": {
     "repoFullName": "rouault/dump_gdbtable",
     "totalPoints": 370,
     "avatar": "https://avatars.githubusercontent.com/u/1192433?v=4"
   },
-  "2": {
-    "repoFullName": "ornicar/ApcBundle",
-    "totalPoints": 239.5,
-    "avatar": "https://avatars.githubusercontent.com/u/140370?v=4"
-  },
-  "3": {
-    "repoFullName": "rouault/cogserver",
-    "totalPoints": 203,
-    "avatar": "https://avatars.githubusercontent.com/u/1192433?v=4"
-  },
-  "4": {
-    "repoFullName": "rouault/cog_validator",
-    "totalPoints": 165.5,
-    "avatar": "https://avatars.githubusercontent.com/u/1192433?v=4"
-  },
-  "5": {
-    "repoFullName": "poolpOrg/filter-rspamd",
-    "totalPoints": 136.5,
-    "avatar": "https://avatars.githubusercontent.com/u/895503?v=4"
-  },
-  "6": {
-    "repoFullName": "garronej/clean-architecture",
-    "totalPoints": 124,
-    "avatar": "https://avatars.githubusercontent.com/u/6702424?v=4"
-  },
-  "7": {
-    "repoFullName": "ParisNeo/chatgpt-personality-selector",
-    "totalPoints": 101,
-    "avatar": "https://avatars.githubusercontent.com/u/827993?v=4"
-  },
-  "8": {
-    "repoFullName": "vietj/ceylon-cayla",
-    "totalPoints": 96.5,
-    "avatar": "https://avatars.githubusercontent.com/u/225674?v=4"
-  },
   "9": {
-    "repoFullName": "crazy-max/aetraymenu",
-    "totalPoints": 96,
-    "avatar": "https://avatars.githubusercontent.com/u/1951866?v=4"
+    "repoFullName": "fasterthanlime/axact",
+    "totalPoints": 368,
+    "avatar": "https://avatars.githubusercontent.com/u/7998310?v=4"
   },
   "10": {
-    "repoFullName": "garronej/chan-dongle-extended",
-    "totalPoints": 65,
-    "avatar": "https://avatars.githubusercontent.com/u/6702424?v=4"
+    "repoFullName": "stephane-caron/awesome-open-source-robots",
+    "totalPoints": 334,
+    "avatar": "https://avatars.githubusercontent.com/u/1189580?v=4"
   }
 }

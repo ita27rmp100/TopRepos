@@ -1,52 +1,52 @@
 {
   "1": {
+    "repoFullName": "ctm/executor",
+    "totalPoints": 688,
+    "avatar": "https://avatars.githubusercontent.com/u/26245?v=4"
+  },
+  "2": {
+    "repoFullName": "vic/apollo-phoenix-websocket",
+    "totalPoints": 223,
+    "avatar": "https://avatars.githubusercontent.com/u/331?v=4"
+  },
+  "3": {
+    "repoFullName": "ch1ago/bdd",
+    "totalPoints": 89.5,
+    "avatar": "https://avatars.githubusercontent.com/u/335238?v=4"
+  },
+  "4": {
     "repoFullName": "edgarrmondragon/gatsby-source-sql",
     "totalPoints": 81,
     "avatar": "https://avatars.githubusercontent.com/u/16805946?v=4"
   },
-  "2": {
+  "5": {
+    "repoFullName": "vic/asdf-elm",
+    "totalPoints": 62,
+    "avatar": "https://avatars.githubusercontent.com/u/331?v=4"
+  },
+  "6": {
     "repoFullName": "edgarrmondragon/citric",
     "totalPoints": 56.5,
     "avatar": "https://avatars.githubusercontent.com/u/16805946?v=4"
   },
-  "3": {
+  "7": {
+    "repoFullName": "ctm/actix-web-lets-encrypt",
+    "totalPoints": 49,
+    "avatar": "https://avatars.githubusercontent.com/u/26245?v=4"
+  },
+  "8": {
+    "repoFullName": "okram/mongodb-gremlin",
+    "totalPoints": 47.5,
+    "avatar": "https://avatars.githubusercontent.com/u/148925?v=4"
+  },
+  "9": {
     "repoFullName": "holasoymalva/awesome-programming-books",
     "totalPoints": 43,
     "avatar": "https://avatars.githubusercontent.com/u/13058234?v=4"
   },
-  "4": {
+  "10": {
     "repoFullName": "holasoymalva/AI-Study-Jam",
     "totalPoints": 43,
     "avatar": "https://avatars.githubusercontent.com/u/13058234?v=4"
-  },
-  "5": {
-    "repoFullName": "holasoymalva/AI-PR-Reviewer-Tasks",
-    "totalPoints": 27.5,
-    "avatar": "https://avatars.githubusercontent.com/u/13058234?v=4"
-  },
-  "6": {
-    "repoFullName": "darideveloper/colors-app-pyramid-and-supabase",
-    "totalPoints": 11,
-    "avatar": "https://avatars.githubusercontent.com/u/49276865?v=4"
-  },
-  "7": {
-    "repoFullName": "josdem/algorithms-workshop",
-    "totalPoints": 11,
-    "avatar": "https://avatars.githubusercontent.com/u/1222062?v=4"
-  },
-  "8": {
-    "repoFullName": "edgarrmondragon/hatch-pinned-extra",
-    "totalPoints": 10.5,
-    "avatar": "https://avatars.githubusercontent.com/u/16805946?v=4"
-  },
-  "9": {
-    "repoFullName": "ImmediateMurderProfessionals/ImmediateMurderProfessionals",
-    "totalPoints": 8,
-    "avatar": "https://avatars.githubusercontent.com/u/156855194?v=4"
-  },
-  "10": {
-    "repoFullName": "ImmediateMurderProfessionals/gd-levels-PUBLIC",
-    "totalPoints": 7.5,
-    "avatar": "https://avatars.githubusercontent.com/u/156855194?v=4"
   }
 }
