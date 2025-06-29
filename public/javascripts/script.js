@@ -1,12 +1,12 @@
-const countries = ["algeria","egypt", "saudi_arabia",
-    "united_states", "canada", "brazil", "mexico", "argentina",
-    "uk", "germany", "france", "italy", "spain", "russia",
-    "china", "india", "japan", "south_korea", "indonesia", "turkey",
-    "australia", "new_zealand","belgium","switzerland",
-    "south_africa", "nigeria", "kenya", "ethiopia",
-    "uae", "iran","iraq","syria","yemen","qatar",
-    "poland", "netherlands", "sweden"
-];
+const countries = [
+    "algeria","argentina","australia","belgium","brazil","canada","china",
+    "egypt","ethiopia","france","germany","india","indonesia","iran","iraq",
+    "italy","japan","kenya","mexico","netherlands","new_zealand","nigeria",
+    "poland","qatar","russia","saudi_arabia","south_africa","ukraine","spain",
+    "sweden","switzerland","syria","turkey","uae","uk","united_states","yemen",
+    "morocco","palestine","tunisia","finland","hong_kong","luxembourg","norway",
+    "portugal","south_korea","taiwan"
+  ];
 // When document is ready
 $(document).ready(function(){
     // coutries list

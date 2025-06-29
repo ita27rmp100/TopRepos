@@ -22,7 +22,7 @@ A web project that showcases the top 50 open source repositories on GitHub for e
 
 **Notes about the virst version :**
 - you may find some defects, we will try to fix them as soon as possible, just let us know what they are.
-- The project provides the list of top 10 projects for 38 country arround the world from different continents of the world, we will add more countries in next updates, inshallah.
+- The project provides the list of top 10 projects for 47 country arround the world from different continents of the world, we will add more countries in next updates, inshallah.
 
 ## Installing :
 To develop the project on your device :
