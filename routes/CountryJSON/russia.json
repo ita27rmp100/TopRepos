@@ -1,52 +1,52 @@
 {
   "1": {
-    "repoFullName": "ilyhalight/voice-over-translation",
-    "totalPoints": 13014,
-    "avatar": "https://avatars.githubusercontent.com/u/62353659?v=4"
+    "repoFullName": "T8RIN/ImageToolbox",
+    "totalPoints": 21349,
+    "avatar": "https://avatars.githubusercontent.com/u/52178347?v=4"
   },
   "2": {
+    "repoFullName": "ilyhalight/voice-over-translation",
+    "totalPoints": 13037.5,
+    "avatar": "https://avatars.githubusercontent.com/u/62353659?v=4"
+  },
+  "3": {
+    "repoFullName": "monosans/proxy-list",
+    "totalPoints": 3211,
+    "avatar": "https://avatars.githubusercontent.com/u/76561516?v=4"
+  },
+  "4": {
+    "repoFullName": "monosans/proxy-scraper-checker",
+    "totalPoints": 2825,
+    "avatar": "https://avatars.githubusercontent.com/u/76561516?v=4"
+  },
+  "5": {
+    "repoFullName": "sergey-dryabzhinsky/nginx-rtmp-module",
+    "totalPoints": 2525.5,
+    "avatar": "https://avatars.githubusercontent.com/u/717597?v=4"
+  },
+  "6": {
+    "repoFullName": "rexim/dotfiles",
+    "totalPoints": 1078,
+    "avatar": "https://avatars.githubusercontent.com/u/165283?v=4"
+  },
+  "7": {
     "repoFullName": "tabuna/breadcrumbs",
     "totalPoints": 984.5,
     "avatar": "https://avatars.githubusercontent.com/u/5102591?v=4"
   },
-  "3": {
-    "repoFullName": "mig1023/seeker",
-    "totalPoints": 249.5,
-    "avatar": "https://avatars.githubusercontent.com/u/45512128?v=4"
-  },
-  "4": {
-    "repoFullName": "mig1023/warhammer-army-assembler",
-    "totalPoints": 181,
-    "avatar": "https://avatars.githubusercontent.com/u/45512128?v=4"
-  },
-  "5": {
-    "repoFullName": "tabuna/experiment",
-    "totalPoints": 143,
-    "avatar": "https://avatars.githubusercontent.com/u/5102591?v=4"
-  },
-  "6": {
-    "repoFullName": "sadko4u/focusrite-scarlett-backports",
-    "totalPoints": 121.5,
-    "avatar": "https://avatars.githubusercontent.com/u/12834464?v=4"
-  },
-  "7": {
-    "repoFullName": "mig1023/interceptor",
-    "totalPoints": 118.5,
-    "avatar": "https://avatars.githubusercontent.com/u/45512128?v=4"
-  },
   "8": {
-    "repoFullName": "sadko4u/tamgamp.lv2",
-    "totalPoints": 107,
-    "avatar": "https://avatars.githubusercontent.com/u/12834464?v=4"
+    "repoFullName": "sergey-dryabzhinsky/python-zstd",
+    "totalPoints": 455,
+    "avatar": "https://avatars.githubusercontent.com/u/717597?v=4"
   },
   "9": {
-    "repoFullName": "andrey-helldar/DigitText",
-    "totalPoints": 67,
-    "avatar": "https://avatars.githubusercontent.com/u/10347617?v=4"
+    "repoFullName": "T8RIN/CookHelper",
+    "totalPoints": 430.5,
+    "avatar": "https://avatars.githubusercontent.com/u/52178347?v=4"
   },
   "10": {
-    "repoFullName": "nin-jin/async-js",
-    "totalPoints": 53.5,
-    "avatar": "https://avatars.githubusercontent.com/u/442988?v=4"
+    "repoFullName": "rexim/aids",
+    "totalPoints": 426,
+    "avatar": "https://avatars.githubusercontent.com/u/165283?v=4"
   }
 }

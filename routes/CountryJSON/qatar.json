@@ -6,7 +6,7 @@
   },
   "2": {
     "repoFullName": "Offensive-Panda/DefenseEvasionTechniques",
-    "totalPoints": 306.5,
+    "totalPoints": 309,
     "avatar": "https://avatars.githubusercontent.com/u/76246439?v=4"
   },
   "3": {
@@ -20,33 +20,33 @@
     "avatar": "https://avatars.githubusercontent.com/u/61534551?v=4"
   },
   "5": {
+    "repoFullName": "Offensive-Panda/.NET_PROFILER_DLL_LOADING",
+    "totalPoints": 111,
+    "avatar": "https://avatars.githubusercontent.com/u/76246439?v=4"
+  },
+  "6": {
+    "repoFullName": "Offensive-Panda/C2_Elevated_Shell_DLL_Hijcking",
+    "totalPoints": 108.5,
+    "avatar": "https://avatars.githubusercontent.com/u/76246439?v=4"
+  },
+  "7": {
     "repoFullName": "0xOmarA/RadixLib",
     "totalPoints": 90.5,
     "avatar": "https://avatars.githubusercontent.com/u/97489629?v=4"
   },
-  "6": {
+  "8": {
     "repoFullName": "nirzaf/accounting",
     "totalPoints": 77,
     "avatar": "https://avatars.githubusercontent.com/u/18024930?v=4"
   },
-  "7": {
+  "9": {
     "repoFullName": "nirzaf/ABCD",
     "totalPoints": 75,
     "avatar": "https://avatars.githubusercontent.com/u/18024930?v=4"
   },
-  "8": {
+  "10": {
     "repoFullName": "nirzaf/AccountsSLTJ",
     "totalPoints": 75,
     "avatar": "https://avatars.githubusercontent.com/u/18024930?v=4"
-  },
-  "9": {
-    "repoFullName": "myofficework000/AboutMovie",
-    "totalPoints": 56.5,
-    "avatar": "https://avatars.githubusercontent.com/u/51234843?v=4"
-  },
-  "10": {
-    "repoFullName": "d7omdev/nuget.nvim",
-    "totalPoints": 45,
-    "avatar": "https://avatars.githubusercontent.com/u/61534551?v=4"
   }
 }

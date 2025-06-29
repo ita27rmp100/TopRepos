@@ -1,52 +1,52 @@
 {
   "1": {
+    "repoFullName": "dagweg/vixel-flow",
+    "totalPoints": 22.5,
+    "avatar": "https://avatars.githubusercontent.com/u/90281138?v=4"
+  },
+  "2": {
+    "repoFullName": "Ludis-ET/Ha-Belu",
+    "totalPoints": 20.5,
+    "avatar": "https://avatars.githubusercontent.com/u/132431582?v=4"
+  },
+  "3": {
+    "repoFullName": "Besufekad-HAZ/Awesome-books-ES6",
+    "totalPoints": 20,
+    "avatar": "https://avatars.githubusercontent.com/u/23375153?v=4"
+  },
+  "4": {
     "repoFullName": "YosephSE/Basics",
     "totalPoints": 17.5,
     "avatar": "https://avatars.githubusercontent.com/u/88291669?v=4"
   },
-  "2": {
+  "5": {
     "repoFullName": "YosephSE/DSA-Solutions",
     "totalPoints": 17.5,
     "avatar": "https://avatars.githubusercontent.com/u/88291669?v=4"
   },
-  "3": {
+  "6": {
     "repoFullName": "YosephSE/express-practice",
     "totalPoints": 17.5,
     "avatar": "https://avatars.githubusercontent.com/u/88291669?v=4"
   },
-  "4": {
-    "repoFullName": "fitse-yotor/AMH_OCR",
-    "totalPoints": 12.5,
-    "avatar": "https://avatars.githubusercontent.com/u/60301939?v=4"
-  },
-  "5": {
-    "repoFullName": "fitse-yotor/Gesture-Volume-Control-python-opencv",
-    "totalPoints": 10.5,
-    "avatar": "https://avatars.githubusercontent.com/u/60301939?v=4"
-  },
-  "6": {
-    "repoFullName": "beka-birhanu/finance-go",
-    "totalPoints": 10,
-    "avatar": "https://avatars.githubusercontent.com/u/119675042?v=4"
-  },
   "7": {
-    "repoFullName": "MarufAbrar/alx-higher_level_programming",
-    "totalPoints": 7.5,
-    "avatar": "https://avatars.githubusercontent.com/u/76269526?v=4"
+    "repoFullName": "YosephSE/Finance-Tracker",
+    "totalPoints": 17.5,
+    "avatar": "https://avatars.githubusercontent.com/u/88291669?v=4"
   },
   "8": {
-    "repoFullName": "MarufAbrar/alx-low_level_programming",
-    "totalPoints": 7.5,
-    "avatar": "https://avatars.githubusercontent.com/u/76269526?v=4"
+    "repoFullName": "YosephSE/Firebase",
+    "totalPoints": 17.5,
+    "avatar": "https://avatars.githubusercontent.com/u/88291669?v=4"
   },
   "9": {
-    "repoFullName": "Tesfamichael12/A2SV",
-    "totalPoints": 7.5,
-    "avatar": "https://avatars.githubusercontent.com/u/149233683?v=4"
+    "repoFullName": "Besufekad-HAZ/Blog-App",
+    "totalPoints": 17.5,
+    "avatar": "https://avatars.githubusercontent.com/u/23375153?v=4"
   },
   "10": {
-    "repoFullName": "Tesfamichael12/Code-Warriors",
-    "totalPoints": 7.5,
-    "avatar": "https://avatars.githubusercontent.com/u/149233683?v=4"
+    "repoFullName": "Besufekad-HAZ/first-capstone-project",
+    "totalPoints": 15.5,
+    "avatar": "https://avatars.githubusercontent.com/u/23375153?v=4"
   }
 }

@@ -11,7 +11,8 @@ router.get('/:country', function(req, res) {
     let CountryData = require(countryPath)
     console.log(CountryData)
     let TopList =``
-    for (let i = 0; i < Object.keys(CountryData).length; i++) {
+    const CountryDataLength = Object.keys(CountryData).length
+    for (let i = 0; i < CountryDataLength; i++) {
         const p = CountryData[Object.keys(CountryData)[i]];
         TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${i+1}" points="${p.totalPoints}"></new-repo> \n`;
     }

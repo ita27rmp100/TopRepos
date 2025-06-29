@@ -6,7 +6,7 @@ async function getTopUsers(country) {
     const url = `https://committers.top/rank_only/${country}.json`;
     let response = await fetch(url);
     let data = await response.json();
-    let topUsers = data.user.slice(0, 10);
+    let topUsers = data.user.slice(0, 20);
     // Filter users based on account age
     let filteredUsers = [];
     for (let i = 0; i < topUsers.length; i++) {
@@ -20,7 +20,7 @@ async function getTopUsers(country) {
                                     });
             let userData = await userResponse.json();
             let accountAgeYears = (new Date() - new Date(userData.created_at)) / (1000 * 3600 * 24 * 365);
-            if (accountAgeYears >= 1 && userData.followers >= 10) {
+            if (accountAgeYears >= 1 && userData.followers >= 15) {
                 filteredUsers.push(topUsers[i]);
             }
         } catch (err) {
@@ -43,7 +43,7 @@ async function getTopRepos(users){
             let repos = await repoResponse.json();
             repos
                 .sort((a, b) => b.stargazers_count - a.stargazers_count)
-                .slice(0, 3)
+                .slice(0, 5)
                 .forEach(e => {
                     BestProjects.push({
                         repoFullName: e.full_name,
@@ -52,11 +52,11 @@ async function getTopRepos(users){
                     });
                 });
         } catch (err) {
-            console.log(`ERROR fetching repos for user ${filteredUsers[i]}`);
+            console.log(`ERROR fetching repos for user ${users[i]}`);
         }
     }
-    BestProjects.sort((a,b)=> b.totalPoints - a.totalPoints).slice(0,10)
-    return BestProjects
+    BestProjects = BestProjects.sort((a, b) => b.totalPoints - a.totalPoints).slice(0, 10);
+    return BestProjects;
 }
 
 // filter and post data 
@@ -64,7 +64,7 @@ const country = process.argv[2];
 getTopUsers(country).then(filteredUsers => {
     let TopList = '' , CountryJSON = {}
     getTopRepos(filteredUsers).then(bestProjects=>{
-        for (let rank = 0; rank < bestProjects.length && rank < 10; rank++) {
+        for (let rank = 0; rank < bestProjects.length && rank < 15; rank++) {
             const p = bestProjects[rank];
             TopList += `<new-repo username="${p.repoFullName.slice(0,p.repoFullName.indexOf('/'))}" reponame="${p.repoFullName.slice(p.repoFullName.indexOf('/')+1)}" avatar="${p.avatar}" rank="${rank+1}" points="${p.totalPoints}"></new-repo> \n`;
             CountryJSON[String(rank+1)] = p
@@ -80,5 +80,5 @@ getTopUsers(country).then(filteredUsers => {
         });
         // end
         console.log(`${country} : done`)
-    })
+    }).catch(error=>console.log(error))
 });

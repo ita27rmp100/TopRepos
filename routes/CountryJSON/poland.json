@@ -1,52 +1,52 @@
 {
   "1": {
+    "repoFullName": "tegnike/aituber-kit",
+    "totalPoints": 1394.5,
+    "avatar": "https://avatars.githubusercontent.com/u/35606144?v=4"
+  },
+  "2": {
     "repoFullName": "kamilmysliwiec/nest-cqrs-example",
     "totalPoints": 1355.5,
     "avatar": "https://avatars.githubusercontent.com/u/23244943?v=4"
   },
-  "2": {
+  "3": {
     "repoFullName": "IgorKowalczyk/majo.exe",
-    "totalPoints": 769.5,
+    "totalPoints": 775.5,
     "avatar": "https://avatars.githubusercontent.com/u/49127376?v=4"
   },
-  "3": {
+  "4": {
+    "repoFullName": "wojtekmaj/enzyme-adapter-react-17",
+    "totalPoints": 769.5,
+    "avatar": "https://avatars.githubusercontent.com/u/5426427?v=4"
+  },
+  "5": {
     "repoFullName": "rr-/docstring_parser",
     "totalPoints": 595,
     "avatar": "https://avatars.githubusercontent.com/u/1045476?v=4"
   },
-  "4": {
+  "6": {
     "repoFullName": "sefinek/Genshin-Impact-ReShade",
     "totalPoints": 594,
     "avatar": "https://avatars.githubusercontent.com/u/92880265?v=4"
   },
-  "5": {
+  "7": {
+    "repoFullName": "wendigo/chrome-protocol-proxy",
+    "totalPoints": 557.5,
+    "avatar": "https://avatars.githubusercontent.com/u/66972?v=4"
+  },
+  "8": {
     "repoFullName": "rr-/screeninfo",
     "totalPoints": 544,
     "avatar": "https://avatars.githubusercontent.com/u/1045476?v=4"
   },
-  "6": {
+  "9": {
+    "repoFullName": "wendigo/go-bind-plugin",
+    "totalPoints": 458,
+    "avatar": "https://avatars.githubusercontent.com/u/66972?v=4"
+  },
+  "10": {
     "repoFullName": "rr-/malgraph4",
     "totalPoints": 413,
     "avatar": "https://avatars.githubusercontent.com/u/1045476?v=4"
-  },
-  "7": {
-    "repoFullName": "sirlucjan/kernel-patches",
-    "totalPoints": 412.5,
-    "avatar": "https://avatars.githubusercontent.com/u/5910665?v=4"
-  },
-  "8": {
-    "repoFullName": "sefinek/Cloudflare-WAF-Expressions",
-    "totalPoints": 241.5,
-    "avatar": "https://avatars.githubusercontent.com/u/92880265?v=4"
-  },
-  "9": {
-    "repoFullName": "RooTinfinite/Interview-questions-and-answers",
-    "totalPoints": 235.5,
-    "avatar": "https://avatars.githubusercontent.com/u/4924867?v=4"
-  },
-  "10": {
-    "repoFullName": "IgorKowalczyk/igorkowalczyk.dev",
-    "totalPoints": 217.5,
-    "avatar": "https://avatars.githubusercontent.com/u/49127376?v=4"
   }
 }

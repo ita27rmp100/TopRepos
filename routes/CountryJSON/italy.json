@@ -1,52 +1,52 @@
 {
   "1": {
     "repoFullName": "fast4x/RiMusic",
-    "totalPoints": 8791,
+    "totalPoints": 8797,
     "avatar": "https://avatars.githubusercontent.com/u/1484476?v=4"
   },
   "2": {
-    "repoFullName": "ivan-hc/AM",
-    "totalPoints": 1959.5,
-    "avatar": "https://avatars.githubusercontent.com/u/88724353?v=4"
+    "repoFullName": "micheles/decorator",
+    "totalPoints": 2242,
+    "avatar": "https://avatars.githubusercontent.com/u/2463856?v=4"
   },
   "3": {
-    "repoFullName": "fabriziosalmi/caddy-waf",
-    "totalPoints": 1341,
-    "avatar": "https://avatars.githubusercontent.com/u/1569108?v=4"
+    "repoFullName": "ivan-hc/AM",
+    "totalPoints": 1965,
+    "avatar": "https://avatars.githubusercontent.com/u/88724353?v=4"
   },
   "4": {
+    "repoFullName": "fabriziosalmi/caddy-waf",
+    "totalPoints": 1345,
+    "avatar": "https://avatars.githubusercontent.com/u/1569108?v=4"
+  },
+  "5": {
+    "repoFullName": "gianlucam76/k8s-cleaner",
+    "totalPoints": 1278,
+    "avatar": "https://avatars.githubusercontent.com/u/52940363?v=4"
+  },
+  "6": {
+    "repoFullName": "SebaUbuntu/Athena",
+    "totalPoints": 751.5,
+    "avatar": "https://avatars.githubusercontent.com/u/38215111?v=4"
+  },
+  "7": {
     "repoFullName": "ivan-hc/AppMan",
     "totalPoints": 467,
     "avatar": "https://avatars.githubusercontent.com/u/88724353?v=4"
   },
-  "5": {
+  "8": {
     "repoFullName": "traversaro/awesome-fmi",
     "totalPoints": 424,
     "avatar": "https://avatars.githubusercontent.com/u/1857049?v=4"
   },
-  "6": {
-    "repoFullName": "ivan-hc/ArchImage",
-    "totalPoints": 415.5,
-    "avatar": "https://avatars.githubusercontent.com/u/88724353?v=4"
-  },
-  "7": {
-    "repoFullName": "bsorrentino/cordova-broadcaster",
-    "totalPoints": 319,
-    "avatar": "https://avatars.githubusercontent.com/u/301596?v=4"
-  },
-  "8": {
-    "repoFullName": "fast4x/RiMusic-Website",
-    "totalPoints": 257,
-    "avatar": "https://avatars.githubusercontent.com/u/1484476?v=4"
-  },
   "9": {
-    "repoFullName": "fabriziosalmi/certmate",
-    "totalPoints": 197.5,
-    "avatar": "https://avatars.githubusercontent.com/u/1569108?v=4"
+    "repoFullName": "remorses/actions-cli",
+    "totalPoints": 423.5,
+    "avatar": "https://avatars.githubusercontent.com/u/31321188?v=4"
   },
   "10": {
-    "repoFullName": "mediocregopher/breadis",
-    "totalPoints": 189.5,
-    "avatar": "https://avatars.githubusercontent.com/u/933154?v=4"
+    "repoFullName": "ivan-hc/ArchImage",
+    "totalPoints": 416,
+    "avatar": "https://avatars.githubusercontent.com/u/88724353?v=4"
   }
 }

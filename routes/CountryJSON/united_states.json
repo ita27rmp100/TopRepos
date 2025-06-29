@@ -1,52 +1,52 @@
 {
   "1": {
     "repoFullName": "zhaoolee/ChromeAppHeroes",
-    "totalPoints": 57100.5,
+    "totalPoints": 57111,
     "avatar": "https://avatars.githubusercontent.com/u/15868458?v=4"
   },
   "2": {
     "repoFullName": "zhaoolee/ChineseBQB",
-    "totalPoints": 35687,
+    "totalPoints": 35792,
     "avatar": "https://avatars.githubusercontent.com/u/15868458?v=4"
   },
   "3": {
-    "repoFullName": "zhaoolee/garss",
-    "totalPoints": 3298,
-    "avatar": "https://avatars.githubusercontent.com/u/15868458?v=4"
+    "repoFullName": "ankane/ahoy",
+    "totalPoints": 11043,
+    "avatar": "https://avatars.githubusercontent.com/u/220358?v=4"
   },
   "4": {
+    "repoFullName": "vladmandic/human",
+    "totalPoints": 6810.5,
+    "avatar": "https://avatars.githubusercontent.com/u/57876960?v=4"
+  },
+  "5": {
+    "repoFullName": "zhaoolee/garss",
+    "totalPoints": 3300,
+    "avatar": "https://avatars.githubusercontent.com/u/15868458?v=4"
+  },
+  "6": {
+    "repoFullName": "ankane/ahoy_email",
+    "totalPoints": 2963.5,
+    "avatar": "https://avatars.githubusercontent.com/u/220358?v=4"
+  },
+  "7": {
+    "repoFullName": "vladmandic/face-api",
+    "totalPoints": 2456,
+    "avatar": "https://avatars.githubusercontent.com/u/57876960?v=4"
+  },
+  "8": {
+    "repoFullName": "ankane/authtrail",
+    "totalPoints": 1403,
+    "avatar": "https://avatars.githubusercontent.com/u/220358?v=4"
+  },
+  "9": {
     "repoFullName": "RamiKrispin/coronavirus",
     "totalPoints": 1345,
     "avatar": "https://avatars.githubusercontent.com/u/12760966?v=4"
   },
-  "5": {
-    "repoFullName": "jverkoey/BinaryCodable",
-    "totalPoints": 984.5,
-    "avatar": "https://avatars.githubusercontent.com/u/45670?v=4"
-  },
-  "6": {
-    "repoFullName": "RamiKrispin/awesome-ds-setting",
-    "totalPoints": 749,
-    "avatar": "https://avatars.githubusercontent.com/u/12760966?v=4"
-  },
-  "7": {
-    "repoFullName": "tianon/cgroupfs-mount",
-    "totalPoints": 583,
-    "avatar": "https://avatars.githubusercontent.com/u/161631?v=4"
-  },
-  "8": {
-    "repoFullName": "RamiKrispin/atsaf",
-    "totalPoints": 414,
-    "avatar": "https://avatars.githubusercontent.com/u/12760966?v=4"
-  },
-  "9": {
-    "repoFullName": "facebook-github-bot/ocamlformat",
-    "totalPoints": 266.5,
-    "avatar": "https://avatars.githubusercontent.com/u/6422482?v=4"
-  },
   "10": {
-    "repoFullName": "Charles-Chrismann/Charles-Chrismann",
-    "totalPoints": 220,
-    "avatar": "https://avatars.githubusercontent.com/u/78157563?v=4"
+    "repoFullName": "mxcl/Cake",
+    "totalPoints": 1333,
+    "avatar": "https://avatars.githubusercontent.com/u/58962?v=4"
   }
 }
