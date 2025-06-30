@@ -1,3 +1,7 @@
+/* general */
+body{
+    overflow-x: hidden;
+}
 /* header nav */
 header{
     background: linear-gradient(135deg, #007bff 60%, #6f42c1 100%);
