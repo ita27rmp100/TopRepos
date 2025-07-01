@@ -6,7 +6,7 @@ async function getTopUsers(country) {
     const url = `https://committers.top/rank_only/${country}.json`;
     let response = await fetch(url);
     let data = await response.json();
-    let topUsers = data.user.slice(0, 20);
+    let topUsers = data.user.slice(0, 150);
     // Filter users based on account age
     let filteredUsers = [];
     for (let i = 0; i < topUsers.length; i++) {
