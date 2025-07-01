@@ -1,52 +1,52 @@
 {
   "1": {
+    "repoFullName": "JoseDeFreitas/awesome-youtubers",
+    "totalPoints": 16913,
+    "avatar": "https://avatars.githubusercontent.com/u/37962411?v=4"
+  },
+  "2": {
+    "repoFullName": "hishamhm/htop",
+    "totalPoints": 14647.5,
+    "avatar": "https://avatars.githubusercontent.com/u/245621?v=4"
+  },
+  "3": {
+    "repoFullName": "vasturiano/3d-force-graph",
+    "totalPoints": 13441,
+    "avatar": "https://avatars.githubusercontent.com/u/6784226?v=4"
+  },
+  "4": {
+    "repoFullName": "apocas/dockerode",
+    "totalPoints": 11707,
+    "avatar": "https://avatars.githubusercontent.com/u/597413?v=4"
+  },
+  "5": {
+    "repoFullName": "tiagorangel1/cap",
+    "totalPoints": 6802.5,
+    "avatar": "https://avatars.githubusercontent.com/u/70700766?v=4"
+  },
+  "6": {
+    "repoFullName": "rubenmarcus/120-perguntas-frontend",
+    "totalPoints": 4988.5,
+    "avatar": "https://avatars.githubusercontent.com/u/8454267?v=4"
+  },
+  "7": {
+    "repoFullName": "brocaar/chirpstack-network-server",
+    "totalPoints": 4048,
+    "avatar": "https://avatars.githubusercontent.com/u/165497?v=4"
+  },
+  "8": {
+    "repoFullName": "anfreire/updateMe-Mobile",
+    "totalPoints": 3421,
+    "avatar": "https://avatars.githubusercontent.com/u/100360644?v=4"
+  },
+  "9": {
+    "repoFullName": "ncruces/go-sqlite3",
+    "totalPoints": 1823,
+    "avatar": "https://avatars.githubusercontent.com/u/5637550?v=4"
+  },
+  "10": {
     "repoFullName": "leafac/caxa",
     "totalPoints": 1761.5,
     "avatar": "https://avatars.githubusercontent.com/u/586813?v=4"
-  },
-  "2": {
-    "repoFullName": "snipe/banbuilder",
-    "totalPoints": 816.5,
-    "avatar": "https://avatars.githubusercontent.com/u/197404?v=4"
-  },
-  "3": {
-    "repoFullName": "bgcngm/mtk-tools",
-    "totalPoints": 633.5,
-    "avatar": "https://avatars.githubusercontent.com/u/1696148?v=4"
-  },
-  "4": {
-    "repoFullName": "snipe/awesome-emoji",
-    "totalPoints": 630,
-    "avatar": "https://avatars.githubusercontent.com/u/197404?v=4"
-  },
-  "5": {
-    "repoFullName": "nunomaduro/awesome-php-src",
-    "totalPoints": 594,
-    "avatar": "https://avatars.githubusercontent.com/u/5457236?v=4"
-  },
-  "6": {
-    "repoFullName": "snipe/downworthy",
-    "totalPoints": 502,
-    "avatar": "https://avatars.githubusercontent.com/u/197404?v=4"
-  },
-  "7": {
-    "repoFullName": "snipe/animated-gifs",
-    "totalPoints": 366,
-    "avatar": "https://avatars.githubusercontent.com/u/197404?v=4"
-  },
-  "8": {
-    "repoFullName": "0joseDark/0joseDark",
-    "totalPoints": 221.5,
-    "avatar": "https://avatars.githubusercontent.com/u/162716366?v=4"
-  },
-  "9": {
-    "repoFullName": "nunomaduro/awesome-laravel-vapor",
-    "totalPoints": 208,
-    "avatar": "https://avatars.githubusercontent.com/u/5457236?v=4"
-  },
-  "10": {
-    "repoFullName": "otaviojava/Easy-Cassandra",
-    "totalPoints": 187.5,
-    "avatar": "https://avatars.githubusercontent.com/u/863011?v=4"
   }
 }
