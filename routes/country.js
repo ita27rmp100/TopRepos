@@ -2,7 +2,7 @@ var express = require('express');
 const router = express.Router();
 const fs = require("fs")
 const {exec} = require("child_process")
-const countries = require("../countryList.json").countries
+const countries = require("../countryList.json").countries || {}
 /* GET home page. */
 router.get('/:country', function(req, res) {
     let req_country = req.params.country.toLowerCase()

@@ -1,52 +1,52 @@
 {
   "1": {
-    "repoFullName": "astrit/css.gg",
-    "totalPoints": 24832.5,
-    "avatar": "https://avatars.githubusercontent.com/u/2398447?v=4"
+    "repoFullName": "danielsaidi/Sheeeeeeeeet",
+    "totalPoints": 4420,
+    "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
   },
   "2": {
-    "repoFullName": "pontusab/directories",
-    "totalPoints": 8665,
-    "avatar": "https://avatars.githubusercontent.com/u/655158?v=4"
+    "repoFullName": "danielsaidi/RichTextKit",
+    "totalPoints": 2875.5,
+    "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
   },
   "3": {
-    "repoFullName": "danielsaidi/Sheeeeeeeeet",
-    "totalPoints": 4422.5,
+    "repoFullName": "danielsaidi/OnboardingKit",
+    "totalPoints": 2365.5,
     "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
   },
   "4": {
-    "repoFullName": "danielsaidi/RichTextKit",
-    "totalPoints": 2870.5,
+    "repoFullName": "danielsaidi/ScrollKit",
+    "totalPoints": 2070.5,
     "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
   },
   "5": {
-    "repoFullName": "danielsaidi/OnboardingKit",
-    "totalPoints": 2360.5,
-    "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
-  },
-  "6": {
-    "repoFullName": "danielsaidi/ScrollKit",
-    "totalPoints": 2063,
-    "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
-  },
-  "7": {
     "repoFullName": "danielsaidi/DeckKit",
     "totalPoints": 2001.5,
     "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
   },
-  "8": {
-    "repoFullName": "konstruktoid/ansible-role-hardening",
-    "totalPoints": 1497,
-    "avatar": "https://avatars.githubusercontent.com/u/7956715?v=4"
-  },
-  "9": {
+  "6": {
     "repoFullName": "hrydgard/minitrace",
     "totalPoints": 1006,
     "avatar": "https://avatars.githubusercontent.com/u/130929?v=4"
   },
+  "7": {
+    "repoFullName": "eerimoq/asn1tools",
+    "totalPoints": 747,
+    "avatar": "https://avatars.githubusercontent.com/u/176810?v=4"
+  },
+  "8": {
+    "repoFullName": "etu/nixconfig",
+    "totalPoints": 350,
+    "avatar": "https://avatars.githubusercontent.com/u/461970?v=4"
+  },
+  "9": {
+    "repoFullName": "etu/0blayout-mode",
+    "totalPoints": 333.5,
+    "avatar": "https://avatars.githubusercontent.com/u/461970?v=4"
+  },
   "10": {
-    "repoFullName": "fredrikaverpil/creosote",
-    "totalPoints": 856.5,
-    "avatar": "https://avatars.githubusercontent.com/u/994357?v=4"
+    "repoFullName": "eerimoq/bitstruct",
+    "totalPoints": 324.5,
+    "avatar": "https://avatars.githubusercontent.com/u/176810?v=4"
   }
 }

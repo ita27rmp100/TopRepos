@@ -1,52 +1,52 @@
 {
   "1": {
+    "repoFullName": "appcypher/awesome-wasm-langs",
+    "totalPoints": 10923,
+    "avatar": "https://avatars.githubusercontent.com/u/20358651?v=4"
+  },
+  "2": {
+    "repoFullName": "appcypher/awesome-mcp-servers",
+    "totalPoints": 8339,
+    "avatar": "https://avatars.githubusercontent.com/u/20358651?v=4"
+  },
+  "3": {
+    "repoFullName": "BolajiAyodeji/awesome-technical-writing",
+    "totalPoints": 4748.5,
+    "avatar": "https://avatars.githubusercontent.com/u/30334776?v=4"
+  },
+  "4": {
+    "repoFullName": "appcypher/awesome-wasm-runtimes",
+    "totalPoints": 3730,
+    "avatar": "https://avatars.githubusercontent.com/u/20358651?v=4"
+  },
+  "5": {
+    "repoFullName": "frankiefab100/Blockchain-Development-Resources",
+    "totalPoints": 3706.5,
+    "avatar": "https://avatars.githubusercontent.com/u/46662771?v=4"
+  },
+  "6": {
+    "repoFullName": "damms005/devdb-vscode",
+    "totalPoints": 2475.5,
+    "avatar": "https://avatars.githubusercontent.com/u/9839355?v=4"
+  },
+  "7": {
+    "repoFullName": "abiosoft/caddy-docker",
+    "totalPoints": 2037,
+    "avatar": "https://avatars.githubusercontent.com/u/240448?v=4"
+  },
+  "8": {
+    "repoFullName": "eadwinCode/django-ninja-extra",
+    "totalPoints": 1222,
+    "avatar": "https://avatars.githubusercontent.com/u/16435810?v=4"
+  },
+  "9": {
     "repoFullName": "Xcelsama/STAR-BOT",
     "totalPoints": 700.5,
     "avatar": "https://avatars.githubusercontent.com/u/144502732?v=4"
   },
-  "2": {
-    "repoFullName": "opeolluwa/filesync",
-    "totalPoints": 336.5,
-    "avatar": "https://avatars.githubusercontent.com/u/67811147?v=4"
-  },
-  "3": {
-    "repoFullName": "Benrobo/baaymax",
-    "totalPoints": 126.5,
-    "avatar": "https://avatars.githubusercontent.com/u/65370456?v=4"
-  },
-  "4": {
-    "repoFullName": "isocroft/browsengine",
-    "totalPoints": 62.5,
-    "avatar": "https://avatars.githubusercontent.com/u/5495952?v=4"
-  },
-  "5": {
-    "repoFullName": "opeolluwa/backend-for-humans",
-    "totalPoints": 31.5,
-    "avatar": "https://avatars.githubusercontent.com/u/67811147?v=4"
-  },
-  "6": {
-    "repoFullName": "Xcelsama/BOT-REPO",
-    "totalPoints": 29.5,
-    "avatar": "https://avatars.githubusercontent.com/u/144502732?v=4"
-  },
-  "7": {
-    "repoFullName": "adeniyii/AirBnB_clone",
-    "totalPoints": 25.5,
-    "avatar": "https://avatars.githubusercontent.com/u/52568775?v=4"
-  },
-  "8": {
-    "repoFullName": "Benrobo/babcock-uber",
-    "totalPoints": 21.5,
-    "avatar": "https://avatars.githubusercontent.com/u/65370456?v=4"
-  },
-  "9": {
-    "repoFullName": "Ayobami6/alx-low_level_programming",
-    "totalPoints": 21,
-    "avatar": "https://avatars.githubusercontent.com/u/91608325?v=4"
-  },
   "10": {
-    "repoFullName": "Adedoyin-Emmanuel/Adedoyin-Emmanuel",
-    "totalPoints": 20.5,
-    "avatar": "https://avatars.githubusercontent.com/u/88517758?v=4"
+    "repoFullName": "stephenjude/laravel-wallet",
+    "totalPoints": 673,
+    "avatar": "https://avatars.githubusercontent.com/u/31182887?v=4"
   }
 }

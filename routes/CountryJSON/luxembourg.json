@@ -1,52 +1,52 @@
 {
   "1": {
+    "repoFullName": "255kb/stack-on-a-budget",
+    "totalPoints": 30888.5,
+    "avatar": "https://avatars.githubusercontent.com/u/7489814?v=4"
+  },
+  "2": {
+    "repoFullName": "qdm12/gluetun",
+    "totalPoints": 25377,
+    "avatar": "https://avatars.githubusercontent.com/u/15654980?v=4"
+  },
+  "3": {
+    "repoFullName": "qdm12/ddns-updater",
+    "totalPoints": 6033,
+    "avatar": "https://avatars.githubusercontent.com/u/15654980?v=4"
+  },
+  "4": {
+    "repoFullName": "joewdavies/geoblender",
+    "totalPoints": 4320,
+    "avatar": "https://avatars.githubusercontent.com/u/25485293?v=4"
+  },
+  "5": {
+    "repoFullName": "keepassium/KeePassium",
+    "totalPoints": 3392,
+    "avatar": "https://avatars.githubusercontent.com/u/38399598?v=4"
+  },
+  "6": {
+    "repoFullName": "kimwalisch/primesieve",
+    "totalPoints": 2604.5,
+    "avatar": "https://avatars.githubusercontent.com/u/4656219?v=4"
+  },
+  "7": {
     "repoFullName": "morteza/bootstrap-rtl",
     "totalPoints": 2542,
     "avatar": "https://avatars.githubusercontent.com/u/222198?v=4"
   },
-  "2": {
-    "repoFullName": "dbarzin/mercator",
-    "totalPoints": 859.5,
-    "avatar": "https://avatars.githubusercontent.com/u/43208232?v=4"
-  },
-  "3": {
-    "repoFullName": "exaexa/codecrypt",
-    "totalPoints": 813,
-    "avatar": "https://avatars.githubusercontent.com/u/271543?v=4"
-  },
-  "4": {
-    "repoFullName": "dbarzin/deming",
-    "totalPoints": 755,
-    "avatar": "https://avatars.githubusercontent.com/u/43208232?v=4"
-  },
-  "5": {
-    "repoFullName": "righel/gitlab-version-nse",
-    "totalPoints": 620.5,
-    "avatar": "https://avatars.githubusercontent.com/u/1659902?v=4"
-  },
-  "6": {
-    "repoFullName": "mvo5/apt-clone",
-    "totalPoints": 226,
-    "avatar": "https://avatars.githubusercontent.com/u/914418?v=4"
-  },
-  "7": {
-    "repoFullName": "righel/ms-exchange-version-nse",
-    "totalPoints": 212.5,
-    "avatar": "https://avatars.githubusercontent.com/u/1659902?v=4"
-  },
   "8": {
-    "repoFullName": "erkobridee/angularjs-github-info",
-    "totalPoints": 129,
-    "avatar": "https://avatars.githubusercontent.com/u/342471?v=4"
+    "repoFullName": "dzove855/Bash-web-server",
+    "totalPoints": 2441,
+    "avatar": "https://avatars.githubusercontent.com/u/23619190?v=4"
   },
   "9": {
-    "repoFullName": "righel/log4shell_nse",
-    "totalPoints": 120,
-    "avatar": "https://avatars.githubusercontent.com/u/1659902?v=4"
+    "repoFullName": "qdm12/gluetun-wiki",
+    "totalPoints": 1667,
+    "avatar": "https://avatars.githubusercontent.com/u/15654980?v=4"
   },
   "10": {
-    "repoFullName": "alitourani/Iranis-dataset",
-    "totalPoints": 116.5,
-    "avatar": "https://avatars.githubusercontent.com/u/42409909?v=4"
+    "repoFullName": "joewdavies/awesome-frontend-gis",
+    "totalPoints": 1426,
+    "avatar": "https://avatars.githubusercontent.com/u/25485293?v=4"
   }
 }
