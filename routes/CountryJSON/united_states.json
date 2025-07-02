@@ -1,1 +1,52 @@
-{}
+{
+  "1": {
+    "repoFullName": "torvalds/linux",
+    "totalPoints": 519858,
+    "avatar": "https://avatars.githubusercontent.com/u/1024025?v=4"
+  },
+  "2": {
+    "repoFullName": "JakeWharton/butterknife",
+    "totalPoints": 65951.5,
+    "avatar": "https://avatars.githubusercontent.com/u/66577?v=4"
+  },
+  "3": {
+    "repoFullName": "zhaoolee/ChromeAppHeroes",
+    "totalPoints": 57120,
+    "avatar": "https://avatars.githubusercontent.com/u/15868458?v=4"
+  },
+  "4": {
+    "repoFullName": "zhaoolee/ChineseBQB",
+    "totalPoints": 35854.5,
+    "avatar": "https://avatars.githubusercontent.com/u/15868458?v=4"
+  },
+  "5": {
+    "repoFullName": "joelparkerhenderson/architecture-decision-record",
+    "totalPoints": 35168.5,
+    "avatar": "https://avatars.githubusercontent.com/u/27145?v=4"
+  },
+  "6": {
+    "repoFullName": "jlowin/fastmcp",
+    "totalPoints": 34732,
+    "avatar": "https://avatars.githubusercontent.com/u/153965?v=4"
+  },
+  "7": {
+    "repoFullName": "webpro/awesome-dotfiles",
+    "totalPoints": 24709.5,
+    "avatar": "https://avatars.githubusercontent.com/u/456426?v=4"
+  },
+  "8": {
+    "repoFullName": "zardus/ctf-tools",
+    "totalPoints": 23308,
+    "avatar": "https://avatars.githubusercontent.com/u/3453847?v=4"
+  },
+  "9": {
+    "repoFullName": "JakeWharton/ActionBarSherlock",
+    "totalPoints": 19361.5,
+    "avatar": "https://avatars.githubusercontent.com/u/66577?v=4"
+  },
+  "10": {
+    "repoFullName": "koush/AndroidAsync",
+    "totalPoints": 19289,
+    "avatar": "https://avatars.githubusercontent.com/u/73924?v=4"
+  }
+}
