@@ -1,1 +1,52 @@
-{}
+{
+  "1": {
+    "repoFullName": "f/awesome-chatgpt-prompts",
+    "totalPoints": 333252.5,
+    "avatar": "https://avatars.githubusercontent.com/u/196477?v=4"
+  },
+  "2": {
+    "repoFullName": "AykutSarac/jsoncrack.com",
+    "totalPoints": 98656,
+    "avatar": "https://avatars.githubusercontent.com/u/47941171?v=4"
+  },
+  "3": {
+    "repoFullName": "saadeghi/daisyui",
+    "totalPoints": 94274.5,
+    "avatar": "https://avatars.githubusercontent.com/u/7342023?v=4"
+  },
+  "4": {
+    "repoFullName": "needim/noty",
+    "totalPoints": 17122.5,
+    "avatar": "https://avatars.githubusercontent.com/u/271912?v=4"
+  },
+  "5": {
+    "repoFullName": "xdan/datetimepicker",
+    "totalPoints": 9080.5,
+    "avatar": "https://avatars.githubusercontent.com/u/794318?v=4"
+  },
+  "6": {
+    "repoFullName": "ozgrozer/ai-renamer",
+    "totalPoints": 4739.5,
+    "avatar": "https://avatars.githubusercontent.com/u/651938?v=4"
+  },
+  "7": {
+    "repoFullName": "Milad-Akarie/auto_route_library",
+    "totalPoints": 4210,
+    "avatar": "https://avatars.githubusercontent.com/u/55059449?v=4"
+  },
+  "8": {
+    "repoFullName": "sarperavci/CloudflareBypassForScraping",
+    "totalPoints": 3756.5,
+    "avatar": "https://avatars.githubusercontent.com/u/50243344?v=4"
+  },
+  "9": {
+    "repoFullName": "Milad-Akarie/smooth_page_indicator",
+    "totalPoints": 3466.5,
+    "avatar": "https://avatars.githubusercontent.com/u/55059449?v=4"
+  },
+  "10": {
+    "repoFullName": "sarperavci/GoogleRecaptchaBypass",
+    "totalPoints": 3161,
+    "avatar": "https://avatars.githubusercontent.com/u/50243344?v=4"
+  }
+}
