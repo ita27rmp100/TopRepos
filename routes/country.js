@@ -15,14 +15,7 @@ router.get('/:country', function(req, res) {
         let TopList =``
         const CountryDataLength = Object.keys(CountryData).length
         if (CountryDataLength == 0) {
-            res.send('./sentFiles/loading.ejs');
-            exec(`node filter.js ${req_country}`, (error) => {
-                if (error) {
-                    console.error("Error:", error);
-                    return res.status(500).send("Internal Server Error  <a href="/">go back to home page</a>");
-                }
-                res.redirect(`/country/${req_country}`);
-            });
+            res.redirect(`/loading/${req_country}`)
         }
         else {
             for (let i = 0; i < CountryDataLength; i++) {

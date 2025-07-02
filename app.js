@@ -6,9 +6,10 @@ const cookieParser = require('cookie-parser');
 const logger = require('morgan');
 const {exec} = require("child_process")
 const fs = require("fs")
-// page routes
+
 const indexRouter = require('./routes/index');
 const topReposRouter = require('./routes/country');
+const loadingRouter = require("./routes/loading")
 
 const app = express();
 // working on data 
@@ -46,10 +47,11 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
-
+// use router
 app.use('/', indexRouter);
 app.use('/country', topReposRouter);
-
+app.use('/load',loadingRouter)
+app.use('/loading', loadingRouter);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));
