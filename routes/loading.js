@@ -15,7 +15,7 @@ router.get('/:country',function(req,res){
     exec(`node filter.js ${req_country}`, (error) => {
         if (error) {
             console.error("Error:", error);
-            return res.status(500).send("Internal Server Error  <a href="/">go back to home page</a>");
+            return;
         }
         statusFetch[req_country] = true
     });
