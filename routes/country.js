@@ -1,6 +1,5 @@
 var express = require('express');
 const router = express.Router();
-const fs = require("fs")
 const {exec} = require("child_process")
 const countries = require("../countryList.json").countries
 /* GET home page. */
@@ -16,12 +15,13 @@ router.get('/:country', function(req, res) {
         let TopList =``
         const CountryDataLength = Object.keys(CountryData).length
         if (CountryDataLength == 0) {
+            res.send('./sentFiles/loading.ejs');
             exec(`node filter.js ${req_country}`, (error) => {
                 if (error) {
                     console.error("Error:", error);
                     return res.status(500).send("Internal Server Error  <a href="/">go back to home page</a>");
                 }
-                else return res.redirect(`/country/${req_country}`);
+                res.redirect(`/country/${req_country}`);
             });
         }
         else {
