@@ -39,22 +39,25 @@
 
 
     <script>
-        const country = "<%= country %>"
-        const fetchStauts = () => {
-            fetch(`/status/${country}`)
+        const country = "<%=country%>"
+        console.log(country)
+        function fetchStauts(){
+            fetch(`/loading/status/${country}`)
                 .then(res=>res.json())
                 .then(data=>{
                     if(data.done){
                         window.location.href = `/country/${country}`
                     }
                     else{
-                        setTimeout(() => {
-                            fetchStauts()
-                        },5000);
+                        setTimeout(fetchStauts,5000);
                     }
                 })
+                .catch(err => {
+                    console.error("Error while polling:", err);
+                    setTimeout(fetchStatus, 7000); // fallback if error
+                });
         }
-        fetchStauts
+        fetchStauts()
     </script>
 </body>
 </html>
