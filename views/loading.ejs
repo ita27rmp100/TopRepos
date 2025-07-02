@@ -36,5 +36,25 @@
         </div>
         <div class="mt-3 text-secondary">Loading, please wait...</div>
     </div>
+
+
+    <script>
+        const country = "<%= country %>"
+        const fetchStauts = () => {
+            fetch(`/status/${country}`)
+                .then(res=>res.json())
+                .then(data=>{
+                    if(data.done){
+                        window.location.href = `/country/${country}`
+                    }
+                    else{
+                        setTimeout(() => {
+                            fetchStauts()
+                        },5000);
+                    }
+                })
+        }
+        fetchStauts
+    </script>
 </body>
 </html>
