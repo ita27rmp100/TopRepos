@@ -1,52 +1,52 @@
 {
   "1": {
-    "repoFullName": "twpayne/chezmoi",
-    "totalPoints": 38535,
-    "avatar": "https://avatars.githubusercontent.com/u/6942?v=4"
-  },
-  "2": {
-    "repoFullName": "janikvonrotz/awesome-powershell",
-    "totalPoints": 13111,
-    "avatar": "https://avatars.githubusercontent.com/u/1370421?v=4"
-  },
-  "3": {
-    "repoFullName": "stonith404/pingvin-share",
-    "totalPoints": 11176.5,
-    "avatar": "https://avatars.githubusercontent.com/u/58886915?v=4"
-  },
-  "4": {
-    "repoFullName": "pschatzmann/arduino-audio-tools",
-    "totalPoints": 4786,
-    "avatar": "https://avatars.githubusercontent.com/u/2078916?v=4"
-  },
-  "5": {
-    "repoFullName": "WerWolv/EdiZon",
-    "totalPoints": 3040.5,
+    "repoFullName": "WerWolv/ImHex",
+    "totalPoints": 125114,
     "avatar": "https://avatars.githubusercontent.com/u/10835354?v=4"
   },
+  "2": {
+    "repoFullName": "antonmedv/fx",
+    "totalPoints": 49356,
+    "avatar": "https://avatars.githubusercontent.com/u/141232?v=4"
+  },
+  "3": {
+    "repoFullName": "twpayne/chezmoi",
+    "totalPoints": 38706.5,
+    "avatar": "https://avatars.githubusercontent.com/u/6942?v=4"
+  },
+  "4": {
+    "repoFullName": "adrai/flowchart.js",
+    "totalPoints": 22127,
+    "avatar": "https://avatars.githubusercontent.com/u/1086194?v=4"
+  },
+  "5": {
+    "repoFullName": "MrNeRF/awesome-3D-gaussian-splatting",
+    "totalPoints": 18725,
+    "avatar": "https://avatars.githubusercontent.com/u/33876434?v=4"
+  },
   "6": {
-    "repoFullName": "bakito/adguardhome-sync",
-    "totalPoints": 3029,
-    "avatar": "https://avatars.githubusercontent.com/u/2733215?v=4"
+    "repoFullName": "janikvonrotz/awesome-powershell",
+    "totalPoints": 13133,
+    "avatar": "https://avatars.githubusercontent.com/u/1370421?v=4"
   },
   "7": {
-    "repoFullName": "damienbod/angular-auth-oidc-client",
-    "totalPoints": 2979.5,
-    "avatar": "https://avatars.githubusercontent.com/u/3442158?v=4"
+    "repoFullName": "stonith404/pingvin-share",
+    "totalPoints": 11191.5,
+    "avatar": "https://avatars.githubusercontent.com/u/58886915?v=4"
   },
   "8": {
-    "repoFullName": "stephband/jparallax",
-    "totalPoints": 2966,
-    "avatar": "https://avatars.githubusercontent.com/u/69022?v=4"
+    "repoFullName": "antonmedv/walk",
+    "totalPoints": 8608.5,
+    "avatar": "https://avatars.githubusercontent.com/u/141232?v=4"
   },
   "9": {
-    "repoFullName": "mafintosh/airpaste",
-    "totalPoints": 2071.5,
-    "avatar": "https://avatars.githubusercontent.com/u/376661?v=4"
+    "repoFullName": "macmade/Hot",
+    "totalPoints": 6771,
+    "avatar": "https://avatars.githubusercontent.com/u/146476?v=4"
   },
   "10": {
-    "repoFullName": "fzumstein/python-for-excel",
-    "totalPoints": 1876,
-    "avatar": "https://avatars.githubusercontent.com/u/2265504?v=4"
+    "repoFullName": "meodai/color-names",
+    "totalPoints": 6639.5,
+    "avatar": "https://avatars.githubusercontent.com/u/608386?v=4"
   }
 }

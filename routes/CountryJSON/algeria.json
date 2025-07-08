@@ -1,52 +1,52 @@
 {
   "1": {
     "repoFullName": "BelkacemYerfa/shadcn-extension",
-    "totalPoints": 3066,
+    "totalPoints": 3106,
     "avatar": "https://avatars.githubusercontent.com/u/106016365?v=4"
   },
   "2": {
     "repoFullName": "abdallahmehiz/mpvKt",
-    "totalPoints": 2494.5,
+    "totalPoints": 2510.5,
     "avatar": "https://avatars.githubusercontent.com/u/54363735?v=4"
   },
   "3": {
-    "repoFullName": "a-hamdi/GPU",
-    "totalPoints": 1148.5,
-    "avatar": "https://avatars.githubusercontent.com/u/80772549?v=4"
+    "repoFullName": "linuxscout/pyarabic",
+    "totalPoints": 1177,
+    "avatar": "https://avatars.githubusercontent.com/u/450792?v=4"
   },
   "4": {
+    "repoFullName": "a-hamdi/GPU",
+    "totalPoints": 1161.5,
+    "avatar": "https://avatars.githubusercontent.com/u/80772549?v=4"
+  },
+  "5": {
     "repoFullName": "strlrd-29/hookcn",
     "totalPoints": 899,
     "avatar": "https://avatars.githubusercontent.com/u/70029024?v=4"
   },
-  "5": {
+  "6": {
+    "repoFullName": "linuxscout/mishkal",
+    "totalPoints": 750,
+    "avatar": "https://avatars.githubusercontent.com/u/450792?v=4"
+  },
+  "7": {
+    "repoFullName": "ipenywis/nestjs-solid",
+    "totalPoints": 586.5,
+    "avatar": "https://avatars.githubusercontent.com/u/13965825?v=4"
+  },
+  "8": {
+    "repoFullName": "sb53systems/G-Code-Flow-Temperature-Controller",
+    "totalPoints": 581,
+    "avatar": "https://avatars.githubusercontent.com/u/33290411?v=4"
+  },
+  "9": {
+    "repoFullName": "youknowriad/wp-js-plugin-starter",
+    "totalPoints": 556.5,
+    "avatar": "https://avatars.githubusercontent.com/u/272444?v=4"
+  },
+  "10": {
     "repoFullName": "yasserbdj96/hiphp",
     "totalPoints": 543,
     "avatar": "https://avatars.githubusercontent.com/u/24677945?v=4"
-  },
-  "6": {
-    "repoFullName": "sb53systems/G-Code-Flow-Temperature-Controller",
-    "totalPoints": 528,
-    "avatar": "https://avatars.githubusercontent.com/u/33290411?v=4"
-  },
-  "7": {
-    "repoFullName": "youknowriad/gcf",
-    "totalPoints": 474,
-    "avatar": "https://avatars.githubusercontent.com/u/272444?v=4"
-  },
-  "8": {
-    "repoFullName": "kaymen99/aave-flashloan-arbitrage",
-    "totalPoints": 389,
-    "avatar": "https://avatars.githubusercontent.com/u/83681204?v=4"
-  },
-  "9": {
-    "repoFullName": "linuxscout/arramooz",
-    "totalPoints": 373,
-    "avatar": "https://avatars.githubusercontent.com/u/450792?v=4"
-  },
-  "10": {
-    "repoFullName": "youknowriad/blockbook",
-    "totalPoints": 372,
-    "avatar": "https://avatars.githubusercontent.com/u/272444?v=4"
   }
 }

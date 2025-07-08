@@ -1,52 +1,52 @@
 {
   "1": {
-    "repoFullName": "danielsaidi/Sheeeeeeeeet",
-    "totalPoints": 4420,
-    "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
+    "repoFullName": "emilk/egui",
+    "totalPoints": 64095.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1148717?v=4"
   },
   "2": {
-    "repoFullName": "danielsaidi/RichTextKit",
-    "totalPoints": 2875.5,
-    "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
-  },
-  "3": {
-    "repoFullName": "danielsaidi/OnboardingKit",
-    "totalPoints": 2365.5,
-    "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
-  },
-  "4": {
-    "repoFullName": "danielsaidi/ScrollKit",
-    "totalPoints": 2070.5,
-    "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
-  },
-  "5": {
-    "repoFullName": "danielsaidi/DeckKit",
-    "totalPoints": 2001.5,
-    "avatar": "https://avatars.githubusercontent.com/u/429927?v=4"
-  },
-  "6": {
-    "repoFullName": "hrydgard/minitrace",
-    "totalPoints": 1006,
+    "repoFullName": "hrydgard/ppsspp",
+    "totalPoints": 31083.5,
     "avatar": "https://avatars.githubusercontent.com/u/130929?v=4"
   },
+  "3": {
+    "repoFullName": "wader/fq",
+    "totalPoints": 25476.5,
+    "avatar": "https://avatars.githubusercontent.com/u/185566?v=4"
+  },
+  "4": {
+    "repoFullName": "astrit/css.gg",
+    "totalPoints": 24838.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2398447?v=4"
+  },
+  "5": {
+    "repoFullName": "arvidn/libtorrent",
+    "totalPoints": 14256,
+    "avatar": "https://avatars.githubusercontent.com/u/661450?v=4"
+  },
+  "6": {
+    "repoFullName": "emilybache/GildedRose-Refactoring-Kata",
+    "totalPoints": 12864.5,
+    "avatar": "https://avatars.githubusercontent.com/u/48844?v=4"
+  },
   "7": {
-    "repoFullName": "eerimoq/asn1tools",
-    "totalPoints": 747,
-    "avatar": "https://avatars.githubusercontent.com/u/176810?v=4"
+    "repoFullName": "jendrikseipp/vulture",
+    "totalPoints": 9793.5,
+    "avatar": "https://avatars.githubusercontent.com/u/213955?v=4"
   },
   "8": {
-    "repoFullName": "etu/nixconfig",
-    "totalPoints": 350,
-    "avatar": "https://avatars.githubusercontent.com/u/461970?v=4"
+    "repoFullName": "pontusab/directories",
+    "totalPoints": 9081,
+    "avatar": "https://avatars.githubusercontent.com/u/655158?v=4"
   },
   "9": {
-    "repoFullName": "etu/0blayout-mode",
-    "totalPoints": 333.5,
-    "avatar": "https://avatars.githubusercontent.com/u/461970?v=4"
+    "repoFullName": "xacrimon/dashmap",
+    "totalPoints": 8919.5,
+    "avatar": "https://avatars.githubusercontent.com/u/21025159?v=4"
   },
   "10": {
-    "repoFullName": "eerimoq/bitstruct",
-    "totalPoints": 324.5,
-    "avatar": "https://avatars.githubusercontent.com/u/176810?v=4"
+    "repoFullName": "vedderb/bldc",
+    "totalPoints": 6852.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2311760?v=4"
   }
 }
