@@ -1,52 +1,52 @@
 {
   "1": {
     "repoFullName": "stenzek/duckstation",
-    "totalPoints": 21318,
+    "totalPoints": 21379,
     "avatar": "https://avatars.githubusercontent.com/u/11288319?v=4"
   },
   "2": {
-    "repoFullName": "wdhdev/free-for-life",
-    "totalPoints": 3007.5,
-    "avatar": "https://avatars.githubusercontent.com/u/87287585?v=4"
+    "repoFullName": "alecthomas/chroma",
+    "totalPoints": 11694.5,
+    "avatar": "https://avatars.githubusercontent.com/u/41767?v=4"
   },
   "3": {
-    "repoFullName": "jxom/awesome-react-headless-components",
-    "totalPoints": 2805,
-    "avatar": "https://avatars.githubusercontent.com/u/7336481?v=4"
+    "repoFullName": "007revad/Synology_HDD_db",
+    "totalPoints": 10586.5,
+    "avatar": "https://avatars.githubusercontent.com/u/39733752?v=4"
   },
   "4": {
-    "repoFullName": "jxom/bumbag-ui",
-    "totalPoints": 2482.5,
-    "avatar": "https://avatars.githubusercontent.com/u/7336481?v=4"
-  },
-  "5": {
-    "repoFullName": "merill/awesome-entra",
-    "totalPoints": 1559,
-    "avatar": "https://avatars.githubusercontent.com/u/1288081?v=4"
-  },
-  "6": {
-    "repoFullName": "aaronparker/evergreen",
-    "totalPoints": 1025,
-    "avatar": "https://avatars.githubusercontent.com/u/8227455?v=4"
-  },
-  "7": {
-    "repoFullName": "aaronparker/intune",
-    "totalPoints": 713.5,
-    "avatar": "https://avatars.githubusercontent.com/u/8227455?v=4"
-  },
-  "8": {
-    "repoFullName": "harlan-zw/harlanzw.com",
-    "totalPoints": 538.5,
+    "repoFullName": "harlan-zw/unlighthouse",
+    "totalPoints": 10433,
     "avatar": "https://avatars.githubusercontent.com/u/5326365?v=4"
   },
+  "5": {
+    "repoFullName": "alecthomas/kingpin",
+    "totalPoints": 8956,
+    "avatar": "https://avatars.githubusercontent.com/u/41767?v=4"
+  },
+  "6": {
+    "repoFullName": "alecthomas/gometalinter",
+    "totalPoints": 8863.5,
+    "avatar": "https://avatars.githubusercontent.com/u/41767?v=4"
+  },
+  "7": {
+    "repoFullName": "alecthomas/kong",
+    "totalPoints": 6820.5,
+    "avatar": "https://avatars.githubusercontent.com/u/41767?v=4"
+  },
+  "8": {
+    "repoFullName": "thomasdavis/backbonetutorials",
+    "totalPoints": 6563.5,
+    "avatar": "https://avatars.githubusercontent.com/u/416209?v=4"
+  },
   "9": {
-    "repoFullName": "robjhyndman/ETC3550Slides",
-    "totalPoints": 515.5,
-    "avatar": "https://avatars.githubusercontent.com/u/127518?v=4"
+    "repoFullName": "nnethercote/perf-book",
+    "totalPoints": 6168.5,
+    "avatar": "https://avatars.githubusercontent.com/u/1940286?v=4"
   },
   "10": {
-    "repoFullName": "aaronparker/icons",
-    "totalPoints": 492,
-    "avatar": "https://avatars.githubusercontent.com/u/8227455?v=4"
+    "repoFullName": "alecthomas/entityx",
+    "totalPoints": 5815.5,
+    "avatar": "https://avatars.githubusercontent.com/u/41767?v=4"
   }
 }

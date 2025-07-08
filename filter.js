@@ -32,7 +32,7 @@ async function getTopUsers(country) {
 async function getTopRepos(users){
     let BestProjects = []
     for (let i = 0; i < users.length; i++) {
-        const serRepoURL = `https://api.github.com/users/${users[i]}/repos`;
+        const serRepoURL = `https://api.github.com/users/${users[i]}/repos?per_page=100`;
         try {
             let repoResponse= await fetch(serRepoURL,{
                                         headers:{

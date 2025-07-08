@@ -1,52 +1,52 @@
 {
   "1": {
-    "repoFullName": "Athou/commafeed",
-    "totalPoints": 7917.5,
-    "avatar": "https://avatars.githubusercontent.com/u/1256795?v=4"
+    "repoFullName": "folke/lazy.nvim",
+    "totalPoints": 45258.5,
+    "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
   },
   "2": {
-    "repoFullName": "driesvints/dotfiles",
-    "totalPoints": 6159.5,
-    "avatar": "https://avatars.githubusercontent.com/u/594614?v=4"
+    "repoFullName": "folke/noice.nvim",
+    "totalPoints": 12938.5,
+    "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
   },
   "3": {
-    "repoFullName": "driesvints/blade-icons",
-    "totalPoints": 5923.5,
-    "avatar": "https://avatars.githubusercontent.com/u/594614?v=4"
+    "repoFullName": "mariusandra/pigeon-maps",
+    "totalPoints": 8748.5,
+    "avatar": "https://avatars.githubusercontent.com/u/53387?v=4"
   },
   "4": {
-    "repoFullName": "kikipoulet/SukiUI",
-    "totalPoints": 4948.5,
-    "avatar": "https://avatars.githubusercontent.com/u/19242427?v=4"
+    "repoFullName": "folke/flash.nvim",
+    "totalPoints": 8125,
+    "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
   },
   "5": {
-    "repoFullName": "sleeyax/burp-awesome-tls",
-    "totalPoints": 3697,
-    "avatar": "https://avatars.githubusercontent.com/u/30344294?v=4"
+    "repoFullName": "Athou/commafeed",
+    "totalPoints": 7940,
+    "avatar": "https://avatars.githubusercontent.com/u/1256795?v=4"
   },
   "6": {
-    "repoFullName": "driesvints/vat-calculator",
-    "totalPoints": 3141,
-    "avatar": "https://avatars.githubusercontent.com/u/594614?v=4"
+    "repoFullName": "folke/neodev.nvim",
+    "totalPoints": 5045,
+    "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
   },
   "7": {
+    "repoFullName": "belgattitude/nextjs-monorepo-example",
+    "totalPoints": 4480,
+    "avatar": "https://avatars.githubusercontent.com/u/259798?v=4"
+  },
+  "8": {
+    "repoFullName": "sleeyax/burp-awesome-tls",
+    "totalPoints": 3717,
+    "avatar": "https://avatars.githubusercontent.com/u/30344294?v=4"
+  },
+  "9": {
+    "repoFullName": "plexus/chestnut",
+    "totalPoints": 3314,
+    "avatar": "https://avatars.githubusercontent.com/u/32212?v=4"
+  },
+  "10": {
     "repoFullName": "matvp91/indigo-player",
     "totalPoints": 3099,
     "avatar": "https://avatars.githubusercontent.com/u/12699796?v=4"
-  },
-  "8": {
-    "repoFullName": "brechtsanders/winlibs_mingw",
-    "totalPoints": 2710.5,
-    "avatar": "https://avatars.githubusercontent.com/u/17645177?v=4"
-  },
-  "9": {
-    "repoFullName": "folke/dot",
-    "totalPoints": 2652.5,
-    "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
-  },
-  "10": {
-    "repoFullName": "aiXander/Realtime_PyAudio_FFT",
-    "totalPoints": 2635,
-    "avatar": "https://avatars.githubusercontent.com/u/24993604?v=4"
   }
 }
