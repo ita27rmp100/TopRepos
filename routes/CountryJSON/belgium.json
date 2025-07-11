@@ -1,52 +1,52 @@
 {
   "1": {
-    "repoFullName": "folke/lazy.nvim",
-    "totalPoints": 45258.5,
-    "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
+    "repoFullName": "JanDeDobbeleer/oh-my-posh",
+    "totalPoints": 50080,
+    "avatar": "https://avatars.githubusercontent.com/u/2492783?v=4"
   },
   "2": {
-    "repoFullName": "folke/noice.nvim",
-    "totalPoints": 12938.5,
+    "repoFullName": "folke/lazy.nvim",
+    "totalPoints": 45365,
     "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
   },
   "3": {
-    "repoFullName": "mariusandra/pigeon-maps",
-    "totalPoints": 8748.5,
-    "avatar": "https://avatars.githubusercontent.com/u/53387?v=4"
+    "repoFullName": "JanDeDobbeleer/oh-my-posh2",
+    "totalPoints": 13132.5,
+    "avatar": "https://avatars.githubusercontent.com/u/2492783?v=4"
   },
   "4": {
-    "repoFullName": "folke/flash.nvim",
-    "totalPoints": 8125,
+    "repoFullName": "folke/noice.nvim",
+    "totalPoints": 12959.5,
     "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
   },
   "5": {
-    "repoFullName": "Athou/commafeed",
-    "totalPoints": 7940,
-    "avatar": "https://avatars.githubusercontent.com/u/1256795?v=4"
+    "repoFullName": "mariusandra/pigeon-maps",
+    "totalPoints": 8751,
+    "avatar": "https://avatars.githubusercontent.com/u/53387?v=4"
   },
   "6": {
-    "repoFullName": "folke/neodev.nvim",
-    "totalPoints": 5045,
+    "repoFullName": "folke/flash.nvim",
+    "totalPoints": 8142,
     "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
   },
   "7": {
-    "repoFullName": "belgattitude/nextjs-monorepo-example",
-    "totalPoints": 4480,
-    "avatar": "https://avatars.githubusercontent.com/u/259798?v=4"
+    "repoFullName": "Athou/commafeed",
+    "totalPoints": 7954,
+    "avatar": "https://avatars.githubusercontent.com/u/1256795?v=4"
   },
   "8": {
-    "repoFullName": "sleeyax/burp-awesome-tls",
-    "totalPoints": 3717,
-    "avatar": "https://avatars.githubusercontent.com/u/30344294?v=4"
+    "repoFullName": "driesvints/dotfiles",
+    "totalPoints": 6170.5,
+    "avatar": "https://avatars.githubusercontent.com/u/594614?v=4"
   },
   "9": {
-    "repoFullName": "plexus/chestnut",
-    "totalPoints": 3314,
-    "avatar": "https://avatars.githubusercontent.com/u/32212?v=4"
+    "repoFullName": "driesvints/blade-icons",
+    "totalPoints": 5933,
+    "avatar": "https://avatars.githubusercontent.com/u/594614?v=4"
   },
   "10": {
-    "repoFullName": "matvp91/indigo-player",
-    "totalPoints": 3099,
-    "avatar": "https://avatars.githubusercontent.com/u/12699796?v=4"
+    "repoFullName": "folke/neodev.nvim",
+    "totalPoints": 5045,
+    "avatar": "https://avatars.githubusercontent.com/u/292349?v=4"
   }
 }
