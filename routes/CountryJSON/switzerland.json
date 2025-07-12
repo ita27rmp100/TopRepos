@@ -1,52 +1,52 @@
 {
   "1": {
     "repoFullName": "WerWolv/ImHex",
-    "totalPoints": 125114,
+    "totalPoints": 125193,
     "avatar": "https://avatars.githubusercontent.com/u/10835354?v=4"
   },
   "2": {
-    "repoFullName": "antonmedv/fx",
-    "totalPoints": 49356,
-    "avatar": "https://avatars.githubusercontent.com/u/141232?v=4"
-  },
-  "3": {
     "repoFullName": "twpayne/chezmoi",
-    "totalPoints": 38706.5,
+    "totalPoints": 38794.5,
     "avatar": "https://avatars.githubusercontent.com/u/6942?v=4"
   },
-  "4": {
+  "3": {
     "repoFullName": "adrai/flowchart.js",
-    "totalPoints": 22127,
+    "totalPoints": 22136.5,
     "avatar": "https://avatars.githubusercontent.com/u/1086194?v=4"
   },
-  "5": {
+  "4": {
     "repoFullName": "MrNeRF/awesome-3D-gaussian-splatting",
-    "totalPoints": 18725,
+    "totalPoints": 18774,
     "avatar": "https://avatars.githubusercontent.com/u/33876434?v=4"
   },
-  "6": {
+  "5": {
     "repoFullName": "janikvonrotz/awesome-powershell",
-    "totalPoints": 13133,
+    "totalPoints": 13147.5,
     "avatar": "https://avatars.githubusercontent.com/u/1370421?v=4"
   },
-  "7": {
+  "6": {
     "repoFullName": "stonith404/pingvin-share",
-    "totalPoints": 11191.5,
+    "totalPoints": 11205,
     "avatar": "https://avatars.githubusercontent.com/u/58886915?v=4"
   },
-  "8": {
-    "repoFullName": "antonmedv/walk",
-    "totalPoints": 8608.5,
-    "avatar": "https://avatars.githubusercontent.com/u/141232?v=4"
-  },
-  "9": {
+  "7": {
     "repoFullName": "macmade/Hot",
-    "totalPoints": 6771,
+    "totalPoints": 6778.5,
     "avatar": "https://avatars.githubusercontent.com/u/146476?v=4"
   },
-  "10": {
+  "8": {
     "repoFullName": "meodai/color-names",
-    "totalPoints": 6639.5,
+    "totalPoints": 6652,
     "avatar": "https://avatars.githubusercontent.com/u/608386?v=4"
+  },
+  "9": {
+    "repoFullName": "pschatzmann/ESP32-A2DP",
+    "totalPoints": 5443,
+    "avatar": "https://avatars.githubusercontent.com/u/2078916?v=4"
+  },
+  "10": {
+    "repoFullName": "pschatzmann/arduino-audio-tools",
+    "totalPoints": 4805,
+    "avatar": "https://avatars.githubusercontent.com/u/2078916?v=4"
   }
 }

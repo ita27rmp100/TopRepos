@@ -1,52 +1,52 @@
 {
   "1": {
     "repoFullName": "HHHMHA/django-roadmap",
-    "totalPoints": 1986.5,
+    "totalPoints": 1998,
     "avatar": "https://avatars.githubusercontent.com/u/37801310?v=4"
   },
   "2": {
     "repoFullName": "firasuke/awesome",
-    "totalPoints": 554.5,
+    "totalPoints": 562,
     "avatar": "https://avatars.githubusercontent.com/u/46160727?v=4"
   },
   "3": {
     "repoFullName": "chikobara/dotfiles",
-    "totalPoints": 378.5,
+    "totalPoints": 381,
     "avatar": "https://avatars.githubusercontent.com/u/29534140?v=4"
   },
   "4": {
     "repoFullName": "firasuke/mussel",
-    "totalPoints": 281.5,
+    "totalPoints": 286.5,
     "avatar": "https://avatars.githubusercontent.com/u/46160727?v=4"
   },
   "5": {
-    "repoFullName": "z44d/tgram",
-    "totalPoints": 109.5,
-    "avatar": "https://avatars.githubusercontent.com/u/162994967?v=4"
+    "repoFullName": "CosmicFusion/fedora-amdgpu-pro",
+    "totalPoints": 203.5,
+    "avatar": "https://avatars.githubusercontent.com/u/83735213?v=4"
   },
   "6": {
-    "repoFullName": "chikobara/GPU-Switcher-Supergfxctl",
-    "totalPoints": 58,
-    "avatar": "https://avatars.githubusercontent.com/u/29534140?v=4"
+    "repoFullName": "youzarsiph/expo-react-native-paper",
+    "totalPoints": 201.5,
+    "avatar": "https://avatars.githubusercontent.com/u/93343012?v=4"
   },
   "7": {
-    "repoFullName": "SaleemAdhamKassab/ProblemSolving",
-    "totalPoints": 56,
-    "avatar": "https://avatars.githubusercontent.com/u/79147255?v=4"
-  },
-  "8": {
-    "repoFullName": "z44d/trengine",
-    "totalPoints": 48.5,
+    "repoFullName": "z44d/tgram",
+    "totalPoints": 107.5,
     "avatar": "https://avatars.githubusercontent.com/u/162994967?v=4"
   },
+  "8": {
+    "repoFullName": "ahmadnourallah/pysploit-framework",
+    "totalPoints": 82,
+    "avatar": "https://avatars.githubusercontent.com/u/22223093?v=4"
+  },
   "9": {
-    "repoFullName": "Ahmad-Nour-Haidar/pharmageddon-mobile",
-    "totalPoints": 37.5,
-    "avatar": "https://avatars.githubusercontent.com/u/151964135?v=4"
+    "repoFullName": "youzarsiph/drf-redesign",
+    "totalPoints": 81.5,
+    "avatar": "https://avatars.githubusercontent.com/u/93343012?v=4"
   },
   "10": {
-    "repoFullName": "firasuke/DOTSLASHLINUX",
-    "totalPoints": 32,
-    "avatar": "https://avatars.githubusercontent.com/u/46160727?v=4"
+    "repoFullName": "nebrassy/device_xiaomi_vayu-TWRP",
+    "totalPoints": 77.5,
+    "avatar": "https://avatars.githubusercontent.com/u/15095738?v=4"
   }
 }
