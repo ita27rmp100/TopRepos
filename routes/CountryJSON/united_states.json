@@ -1,52 +1,52 @@
 {
   "1": {
     "repoFullName": "torvalds/linux",
-    "totalPoints": 520948.5,
+    "totalPoints": 521585,
     "avatar": "https://avatars.githubusercontent.com/u/1024025?v=4"
   },
   "2": {
     "repoFullName": "jlevy/the-art-of-command-line",
-    "totalPoints": 399390,
+    "totalPoints": 399588,
     "avatar": "https://avatars.githubusercontent.com/u/2058167?v=4"
   },
   "3": {
-    "repoFullName": "virattt/ai-hedge-fund",
-    "totalPoints": 98003.5,
-    "avatar": "https://avatars.githubusercontent.com/u/901795?v=4"
-  },
-  "4": {
-    "repoFullName": "jgm/pandoc",
-    "totalPoints": 96292,
-    "avatar": "https://avatars.githubusercontent.com/u/3044?v=4"
-  },
-  "5": {
     "repoFullName": "ChrisTitusTech/winutil",
-    "totalPoints": 93594,
+    "totalPoints": 94164,
     "avatar": "https://avatars.githubusercontent.com/u/7896101?v=4"
   },
-  "6": {
+  "4": {
     "repoFullName": "ggreer/the_silver_searcher",
-    "totalPoints": 66878,
+    "totalPoints": 66903,
     "avatar": "https://avatars.githubusercontent.com/u/200121?v=4"
   },
-  "7": {
+  "5": {
     "repoFullName": "JakeWharton/butterknife",
-    "totalPoints": 65949,
+    "totalPoints": 65946.5,
     "avatar": "https://avatars.githubusercontent.com/u/66577?v=4"
   },
-  "8": {
+  "6": {
+    "repoFullName": "valyala/fasthttp",
+    "totalPoints": 57611,
+    "avatar": "https://avatars.githubusercontent.com/u/283442?v=4"
+  },
+  "7": {
     "repoFullName": "zhaoolee/ChromeAppHeroes",
-    "totalPoints": 57159.5,
+    "totalPoints": 57170,
     "avatar": "https://avatars.githubusercontent.com/u/15868458?v=4"
   },
-  "9": {
+  "8": {
     "repoFullName": "motdotla/dotenv",
-    "totalPoints": 50076,
+    "totalPoints": 50110.5,
     "avatar": "https://avatars.githubusercontent.com/u/3848?v=4"
   },
-  "10": {
+  "9": {
     "repoFullName": "gnachman/iTerm2",
-    "totalPoints": 40789.5,
+    "totalPoints": 40850.5,
     "avatar": "https://avatars.githubusercontent.com/u/427546?v=4"
+  },
+  "10": {
+    "repoFullName": "mxcl/PromiseKit",
+    "totalPoints": 36373,
+    "avatar": "https://avatars.githubusercontent.com/u/58962?v=4"
   }
 }
