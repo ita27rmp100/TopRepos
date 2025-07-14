@@ -14,8 +14,6 @@ const loadingRouter = require("./routes/loading")
 const app = express();
 // working on data 
 const countries = require("./countryList.json").countries.sort()
-let lastUpdate = new Date(require("./countryList.json").LastUpdate)
-const current = new Date()
 function RecursivePushCountryData(index){
   if(index<=countries.length){
     const country = countries[index]
@@ -25,17 +23,21 @@ function RecursivePushCountryData(index){
     })
   }
 }
- 
-if (Math.floor((current-lastUpdate)/(3600*1000))>24){
-  fs.writeFileSync(
-    path.join(__dirname, "countryList.json"),
-    JSON.stringify({
-      ...require("./countryList.json"),
-      LastUpdate: new Date().toISOString().replace("T"," ").replace("Z","")
-    }, null, 2)
-  )
-  RecursivePushCountryData(0)
-}
+
+setInterval(()=>{
+  let lastUpdate = new Date(require("./countryList.json").LastUpdate)
+  const current = new Date()
+  if (Math.floor((current-lastUpdate)/(3600*1000))>24){
+    fs.writeFileSync(
+      path.join(__dirname, "countryList.json"),
+      JSON.stringify({
+        ...require("./countryList.json"),
+        LastUpdate: new Date().toISOString().replace("T"," ").replace("Z","")
+      }, null, 2)
+    )
+    RecursivePushCountryData(0)
+  }
+},10000)
 // post data of form
 
 // view engine setup
