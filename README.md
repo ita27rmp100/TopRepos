@@ -5,7 +5,7 @@ A web project that showcases the top 50 open source repositories on GitHub for e
 
 ## Conditions
 1. Your account must have at least 15 followers.
-2. You must be among the top 20 most active GitHub users, according to the [committers.top](https://committers.top/) ranking.
+2. You must be among the top 250 most active GitHub users, according to the [committers.top](https://committers.top/) ranking.
 3. Your GitHub account must be older than one year.
 
 ## How each project is graded :
@@ -22,7 +22,7 @@ A web project that showcases the top 50 open source repositories on GitHub for e
 
 **Notes about the virst version :**
 - you may find some defects, we will try to fix them as soon as possible, just let us know what they are.
-- The project provides the list of top 10 projects for 47 country arround the world from different continents of the world, we will add more countries in next updates, inshallah.
+- The project provides the list of top 50 projects for 47 country arround the world from different continents of the world, we will add more countries in next updates, inshallah.
 
 ## Installing :
 To develop the project on your device :
