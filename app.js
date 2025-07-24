@@ -4,8 +4,6 @@ const express = require('express');
 const path = require('path');
 const cookieParser = require('cookie-parser');
 const logger = require('morgan');
-const {exec} = require("child_process")
-const fs = require("fs")
 
 const indexRouter = require('./routes/index');
 const topReposRouter = require('./routes/country');

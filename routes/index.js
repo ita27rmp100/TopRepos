@@ -12,7 +12,6 @@ async function FetchMetaData() {
 router.get('/',async function(req, res, next) {
   const metadata = await FetchMetaData()
   res.render('index', {
-    LastUpdate: metadata.LastUpdate,
     countries: metadata.countries
   });
 });
