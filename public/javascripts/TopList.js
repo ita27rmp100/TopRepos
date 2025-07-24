@@ -1,7 +1,7 @@
 async function fetchCountryData(link) {
   const req_country = link.slice(link.indexOf('country') + 8).toLowerCase();
   try {
-    const CountryDataReq = await fetch(`http://localhost:3050/api/repos?country=${req_country}`);
+    const CountryDataReq = await fetch(`https://toprepos-api.onrender.com/api/repos?country=${req_country}`);
     const CountryData = await CountryDataReq.json();
 
     let TopList = '';

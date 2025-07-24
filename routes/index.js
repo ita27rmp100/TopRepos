@@ -3,7 +3,7 @@ const router = express.Router();
 
 // FETCH needed data
 async function FetchMetaData() {
-  const req = await fetch('http://localhost:3050/api/metadata');
+  const req = await fetch('https://toprepos-api.onrender.com/api/metadata');
   const response = await req.json();
   return response;
 }
