@@ -84,6 +84,9 @@
     <!-- footer -->
     <%- include('./main/footer.ejs') %>
     <!-- sripts -->
+    <script>
+        let countries = "<%= countries %>".split(',')
+    </script>
     <%- include('./main/scripts.ejs') %>
 </body>
 </html>

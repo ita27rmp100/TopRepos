@@ -1,12 +1,3 @@
-const countries = [
-    "algeria","argentina","australia","belgium","brazil","canada","china",
-    "egypt","ethiopia","france","germany","india","indonesia","iran","iraq",
-    "italy","japan","kenya","mexico","netherlands","new_zealand","nigeria",
-    "poland","qatar","russia","saudi_arabia","south_africa","ukraine","spain",
-    "sweden","switzerland","syria","turkey","uae","uk","united_states","yemen",
-    "morocco","palestine","tunisia","finland","hong_kong","luxembourg","norway",
-    "portugal","south_korea","taiwan"
-  ];
 // When document is ready
 $(document).ready(function(){
     // coutries list

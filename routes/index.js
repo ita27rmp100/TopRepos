@@ -1,9 +1,20 @@
 const express = require('express');
 const router = express.Router();
-const LastUpdate = require("../countryList.json").LastUpdate
+
+// FETCH needed data
+async function FetchMetaData() {
+  const req = await fetch('http://localhost:3050/api/metadata');
+  const response = await req.json();
+  return response;
+}
+
 /* GET home page. */
-router.get('/', function(req, res, next) {
-  res.render('index',{LastUpdate});
+router.get('/',async function(req, res, next) {
+  const metadata = await FetchMetaData()
+  res.render('index', {
+    LastUpdate: metadata.LastUpdate,
+    countries: metadata.countries
+  });
 });
 
 module.exports = router;
