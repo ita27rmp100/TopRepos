@@ -10,6 +10,11 @@ const topReposRouter = require('./routes/country');
 
 const app = express();
 
+// ping
+app.get('/ping',(req,res)=>{
+  res.json({msg:'pong'})
+})
+
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
