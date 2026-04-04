@@ -1,18 +1,20 @@
 const express = require('express');
 const router = express.Router();
-
-// FETCH needed data
-async function FetchMetaData() {
-  const req = await fetch('https://toprepos-api.onrender.com/api/metadata');
-  const response = await req.json();
-  return response;
-}
-
 /* GET home page. */
 router.get('/',async function(req, res, next) {
-  const metadata = await FetchMetaData()
   res.render('index', {
-    countries: metadata.countries
+    countries: [
+                "algeria", "argentina", "australia", "belgium", "brazil",
+                "canada", "china", "egypt", "ethiopia", "finland",
+                "france", "germany", "hong_kong", "india", "indonesia",
+                "iran", "iraq", "italy", "japan", "kenya",
+                "luxembourg", "mexico", "morocco", "netherlands", "new_zealand",
+                "nigeria", "norway", "palestine", "poland", "portugal",
+                "qatar", "russia", "saudi_arabia", "south_africa", "south_korea",
+                "spain", "sweden", "switzerland", "syria", "taiwan",
+                "tunisia", "turkey", "uae", "uk", "ukraine",
+                "united_states", "yemen",
+              ]
   });
 });
 
