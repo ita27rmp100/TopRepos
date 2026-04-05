@@ -11,7 +11,7 @@ const topReposRouter = require('./routes/country');
 // ─── Firestore updater imports ────────────────────────────────────────────────
 const { configuration, uploadProcessData } = require('./crud');
 const HOURS_48 = 48 * 60 * 60 * 1000;
-
+const breakFetch = 60 * 60 * 1000
 const countries = [
   "algeria", "argentina", "australia", "belgium", "brazil",
   "canada", "china", "egypt", "ethiopia", "finland",
@@ -86,12 +86,13 @@ async function updateCountry(country) {
     console.log(`[updater] ${country} updated (${bestProjects.length} repos)`);
   } catch (err) {
     console.error(`[updater] Failed to update ${country}:`, err.message);
+    setTimeout(updateCountry(country),breakFetch)
   }
 }
 
 // Runs through ALL countries sequentially, then schedules itself again after 48h
 async function runUpdateCycle() {
-  console.log(`\n[updater] 🚀  Starting update cycle — ${new Date().toISOString()}`);
+  console.log(`\n[updater] Starting update cycle — ${new Date().toISOString()}`);
   for (const country of countries) {
     await updateCountry(country);
   }
